@@ -21,7 +21,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 
 ## Para contribuir
 
-:tw-1f449: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
+:point_right: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
 
 Sinta-se livre para incluir mais canais ou cursos! Se você for mulher e cria cursos sobre TI, pode postar eles aqui também. E, claro, se quiser modificar a descrição dos seus cursos na lista, fique a vontade.
 
