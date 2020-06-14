@@ -1,4 +1,4 @@
-# Mulheres que ensinam tecnologia :tw-2728:
+# Mulheres que ensinam tecnologia :mega:
 
 > Uma lista de canais ou cursos sobre tecnologia feitos por mulheres.
 
