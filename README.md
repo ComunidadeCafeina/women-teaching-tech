@@ -24,6 +24,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Sandyara Peres](https://sandyaraperes.com.br/android "Sandyara Peres") | Android | Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio. |
 | [Academia Hopper](https://www.youtube.com/channel/UCh23-TkLtF8NCtk5hGP9aEg "Academia Hopper") | Lógica de Programação | Curso de lógica de programação, curso de Python, mulheres na carreira de tecnologia. |
 | [Camila Rossi](https://www.youtube.com/channel/UCBEOKRcfvOuugFMogbTvKiw "Camila Rossi") | Tecnologia | Buzzwords de tecnologia (palavras da moda), bots e inovação. |
+| [Mônica Mesquita](https://www.udemy.com/course/interfacenapratica/?referralCode=86F649EDC5648E5265BA "Mônica Mesquita") | UI Design | Design de interfaces com o Adobe XD. |
 
 ## Para contribuir
 
