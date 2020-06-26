@@ -26,7 +26,8 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Camila Rossi](https://www.youtube.com/channel/UCBEOKRcfvOuugFMogbTvKiw "Camila Rossi") | Tecnologia | Buzzwords de tecnologia (palavras da moda), bots e inovação. |
 | [Mônica Mesquita](https://www.udemy.com/course/interfacenapratica/?referralCode=86F649EDC5648E5265BA "Mônica Mesquita") | UI Design | Design de interfaces com o Adobe XD. |
 | [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel "Canal Peixe Babel") | Tecnologia | Canal com diversos conteúdos sobre ciência de dados, entrevistas e muito mais. |
-
+| [Nina Talks](https://www.instagram.com/nina_talks/?hl=pt-br "Perfil da Nina Talks") | UI/UX design e Tecnologia | Perfil com dicas de UI/UX design e assuntos relacionados à tecnologia. |
+| [Juliana Negreiros](https://twitter.com/juunegreiros "Perfil da Juliana Negreiros") | Web e Games | Instrutora de cursos na Alura. |
 
 ## Para contribuir
 
