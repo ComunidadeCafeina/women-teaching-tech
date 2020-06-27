@@ -26,6 +26,9 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Camila Rossi](https://www.youtube.com/channel/UCBEOKRcfvOuugFMogbTvKiw "Camila Rossi") | Tecnologia | Buzzwords de tecnologia (palavras da moda), bots e inovação. |
 | [Mônica Mesquita](https://www.udemy.com/course/interfacenapratica/?referralCode=86F649EDC5648E5265BA "Mônica Mesquita") | UI Design | Design de interfaces com o Adobe XD. |
 | [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel "Canal Peixe Babel") | Tecnologia | Canal com diversos conteúdos sobre ciência de dados, entrevistas e muito mais. |
+| [Punk do DevOps](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") | Tecnologia |Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral. |
+| [PrograMaria](https://www.programaria.org/ "PrograMaria") | Tecnologia |Organização que visa, por meio de cursos, artigos e eventos, diminuir o gap de gênero no mercado de trabalho e empoderar mulheres através da tecnologia. |
+| [PodProgramar](https://podprogramar.com.br/ "Podcast PodProgramar") | Tecnologia |O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens. |
 
 
 ## Para contribuir
