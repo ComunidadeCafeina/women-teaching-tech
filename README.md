@@ -26,11 +26,22 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Camila Rossi](https://www.youtube.com/channel/UCBEOKRcfvOuugFMogbTvKiw "Camila Rossi") | Tecnologia | Buzzwords de tecnologia (palavras da moda), bots e inovação. |
 | [Mônica Mesquita](https://www.udemy.com/course/interfacenapratica/?referralCode=86F649EDC5648E5265BA "Mônica Mesquita") | UI Design | Design de interfaces com o Adobe XD. |
 | [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel "Canal Peixe Babel") | Tecnologia | Canal com diversos conteúdos sobre ciência de dados, entrevistas e muito mais. |
-| [Nina Talks](https://www.instagram.com/nina_talks/?hl=pt-br "Perfil da Nina Talks") | UI/UX design e Tecnologia | Perfil com dicas de UI/UX design e assuntos relacionados à tecnologia. |
+| [Nina Talks](https://www.instagram.com/nina_talks/?hl=pt-br "Perfil do Instagram da Nina Talks") | UI/UX design e Tecnologia | Perfil com dicas de UI/UX design e assuntos relacionados à tecnologia. |
 | [Juliana Negreiros](https://twitter.com/juunegreiros "Perfil da Juliana Negreiros") | Web e Games | Instrutora de cursos na Alura. |
 | [Punk do DevOps](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") | DevOps | Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral. |
-| [PrograMaria](https://www.programaria.org/ "PrograMaria") | Capacitação | Organização que visa, por meio de cursos, artigos e eventos, diminuir o gap de gênero no mercado de trabalho e empoderar mulheres através da tecnologia. |
+| [PrograMaria](https://www.programaria.org/ "Site da comunidade PrograMaria") | Capacitação | Organização que visa, por meio de cursos, artigos e eventos, diminuir o gap de gênero no mercado de trabalho e empoderar mulheres através da tecnologia. |
 | [PodProgramar](https://podprogramar.com.br/ "Podcast PodProgramar") | Tecnologia |O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens. |
+| [Women Game Jam](https://www.twitch.tv/wgjbr/ "Perfil do Twitch da Women Game Jam") | Games | Evento sobre mulheres na indústria dos games. |
+| [StelByrn](https://www.twitch.tv/stelbyrn "Perfil do Twitch da StelByrn") | Flutter | Live coding de Flutter. |
+| [Ellen Körbes](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") | Go | Curso para aprender a programar com GO. |
+| [Ana no Terminal](https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg "Canal do Youtube da Ana no Terminal") | Python | Curso de introdução a programação com Python. |
+| [Dados de Julieta](https://www.youtube.com/channel/UCywxFahcIZtnrLFXgFuGHqw "Canal do Youtube da Dados de Julieta") | Ciência de Dados | Canal sobre análise de dados. |
+| [Miriam TechCod](https://www.youtube.com/channel/UCBJKi6wqJPj0wEU4U2bf_Bg "Canal do Youtube da Miriam TechCod") | Programação | Vídeos sobre algoritmos, PHP e C#. |
+| [Glaucia Lemos](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") | Programação | Vídeos de programação com Node, Typescript, C#, AngularJS e Vue. |
+| [Ana Beatriz Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA "Canal do Youtube da Ana Beatriz Neri") | Programação | Curso de Spring Webflux, MongoDB e AWS. |
+| [Cloud Girls](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") | Cloud | Comunidade que posta lives sobre cloud. |
+| [Cah Felix](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") | HTML/CSS | Cursos de HTML e CSS para iniciantes. |
+| [PyLadies](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") | Python | Comunidade que posta lives sobre Python. |
 
 ## Para contribuir
 
