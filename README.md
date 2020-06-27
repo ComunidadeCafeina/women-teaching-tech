@@ -28,6 +28,9 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel "Canal Peixe Babel") | Tecnologia | Canal com diversos conteúdos sobre ciência de dados, entrevistas e muito mais. |
 | [Nina Talks](https://www.instagram.com/nina_talks/?hl=pt-br "Perfil da Nina Talks") | UI/UX design e Tecnologia | Perfil com dicas de UI/UX design e assuntos relacionados à tecnologia. |
 | [Juliana Negreiros](https://twitter.com/juunegreiros "Perfil da Juliana Negreiros") | Web e Games | Instrutora de cursos na Alura. |
+| [Punk do DevOps](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") | DevOps | Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral. |
+| [PrograMaria](https://www.programaria.org/ "PrograMaria") | Capacitação | Organização que visa, por meio de cursos, artigos e eventos, diminuir o gap de gênero no mercado de trabalho e empoderar mulheres através da tecnologia. |
+| [PodProgramar](https://podprogramar.com.br/ "Podcast PodProgramar") | Tecnologia |O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens. |
 
 ## Para contribuir
 
