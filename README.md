@@ -54,6 +54,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [lelemaine channel](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") | Tecnologia | Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e incentivar mulheres a ingressar nessa área. | 
 | [Vida Programação](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") | Programação mobile | Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas. |
 | [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") | Python | Canal sobre contéudos básicos de Python e algoritmo. |
+| [Curso de Lógica de Programação](https://youtu.be/lymtuqJdf8U/ "Canal Youtube") | Programação | Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu |
 
 ## Para contribuir 
 
