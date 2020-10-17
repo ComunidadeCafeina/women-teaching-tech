@@ -8,9 +8,8 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 
 | Nome/Link | Tema |  Descrição |
 | ------------ | ------------ | ------------ |
-| [Compiladoras de Cafeína](https://www.youtube.com/channel/UCGWQeMQAYnWINj5_0ViCAjw "Comunidade Compiladoras de Cafeína") | Comunidade | Nosso canal! (O último que tivemos foi apagado) |
 | [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "WoMakersCode") | Comunidade | Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia. |
-| [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Comunidade Devs JavaGirl BR") | Comunidade | Canal com lives períodicas com tutoriais, bootcamps e carreira na TI. |
+| [Compiladoras de Cafeína](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Compiladoras de Cafeína") | Comunidade | Canal com lives períodicas com tutoriais, bootcamps e carreira na TI. |
 | [Loiane Groner](https://loiane.training/ "Loiane Groner") | Java, Angular | Cursos: Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4. |
 | [DB4Beginners](https://www.youtube.com/channel/UCAhMgZRoZtAnJETcbYG51WQ "DB4Beginners") | Banco de Dados | Canal sobre banco de dados relacionais e não relacionais. A Dani também tem cursos sobre MongoDB no [dani.academy](https://dani.academy/ "dani.academy"). |
 | [Trans de Programa](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") | Firebase | Canal sobre Firebase e diversidade.  |
@@ -46,7 +45,8 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Kizzy Terra](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR "Canal do Youtube Programação Dinamica") | Ciência de Dados | Canal sobre análise de dados e data science. |
 | [Wonder Wanny](https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ "Canal do Youtube da Vannessa Barr") | Banco de dados | Canal sobre banco de dados. |
 | [Carla Vieira](https://www.youtube.com/eaicarla "Canal do Youtube E AI, Carla?") | IA | Conteúdo sobre ciência, Inteligência Artificial, tecnologia e seus impactos na sociedade. |
-| [PACHIcodes](https://www.twitch.tv/pachicodes "Perfil do Twitch da PACHI") | HTML e CSS | Live Coding de HTML e CSS. |
+
+| [Carla Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") |Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
 
 ## Para contribuir
 
