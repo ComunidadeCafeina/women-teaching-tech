@@ -52,8 +52,8 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") | Tecnologia | Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
 | [nomadCodeMist](https://www.twitch.tv/nomadCodeMist "Perfil no Twitch") | JS / React | Canal no Twitch com live code sobre JS e React. |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo/ "Canal Youtube") | Go | Canal no Youtube com conteúdo sobre a linguagem Go. |
-
-## Para contribuir
+| [Coding Is for Girls] (https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") | Python| Canal sobre contéudos básicos de Python ealgoritmo. |
+## Para contribuir 
 
 :point_right: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
 
