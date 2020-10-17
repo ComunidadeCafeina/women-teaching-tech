@@ -47,11 +47,10 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Wonder Wanny](https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ "Canal do Youtube da Vannessa Barr") | Banco de dados | Canal sobre banco de dados. |
 | [Carla Vieira](https://www.youtube.com/eaicarla "Canal do Youtube E AI, Carla?") | IA | Conteúdo sobre ciência, Inteligência Artificial, tecnologia e seus impactos na sociedade. |
 | [PACHIcodes](https://www.twitch.tv/pachicodes "Perfil do Twitch da PACHI") | HTML e CSS | Live Coding de HTML e CSS. |
-| [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") |Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
 | [Liara Programadora](https://www.youtube.com/channel/UCkjlpKaG0SUeCQso6Lt2gbg "Canal do Youtube de Liara Programadora") |Tecnologia | Conteúdo de programação voltado para o frontend.|
 | [Nina Da Hora](https://www.youtube.com/channel/UCQ9fpGb7sOBYvbVN9OcVtJQ "Canal do Youtube de Nina Da Hora") |Tecnologia | Conteúdo sobre pensamento computacional.|
-
-
+| [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") | Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
+| [nomadCodeMist](https://www.twitch.tv/nomadCodeMist "Perfil no Twitch") | JS / React | Canal no Twitch com live code sobre JS e React. |
 
 ## Para contribuir
 
