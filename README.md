@@ -50,6 +50,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") | Tecnologia | Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
 | [nomadCodeMist](https://www.twitch.tv/nomadCodeMist "Perfil no Twitch") | JS / React | Canal no Twitch com live code sobre JS e React. |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo/ "Canal Youtube") | Go | Canal no Youtube com conteúdo sobre a linguagem Go. |
+| [Coding Blonde :us:](https://www.youtube.com/c/CodingBlonde/featured "Canal do Youtube de Masha") 🇷🇺 | Tecnologia | Canal no youtube com conteúdo sobre HTML, Blockchain, Python e outras curiosidades sobre tecnologia.| 
 | [lelemaine channel](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") | Tecnologia | Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e incentivar mulheres a ingressar nessa área. | 
 | [Vida Programação](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") | Programação mobile | Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas. |
 | [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") | Python | Canal sobre contéudos básicos de Python e algoritmo. |
