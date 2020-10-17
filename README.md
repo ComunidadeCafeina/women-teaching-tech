@@ -50,6 +50,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Liara Programadora](https://www.youtube.com/c/LiaraProgramadora "Canal do Youtube da Liara Programadora") | Programação | Canal sobre programação. |
 | [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") | Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
 | [nomadCodeMist](https://www.twitch.tv/nomadCodeMist "Perfil no Twitch") | JS / React | Canal no Twitch com live code sobre JS e React. |
+| [Aprenda Go](https://www.youtube.com/c/AprendaGo/ "Canal Youtube") | Go | Canal no Youtube com conteúdo sobre a linguagem Go. |
 
 ## Para contribuir
 
