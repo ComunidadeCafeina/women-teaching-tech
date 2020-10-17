@@ -51,6 +51,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Nina Da Hora](https://www.youtube.com/channel/UCQ9fpGb7sOBYvbVN9OcVtJQ "Canal do Youtube de Nina Da Hora") |Tecnologia | Conteúdo sobre pensamento computacional.|
 | [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") | Tecnologia | Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
 | [nomadCodeMist](https://www.twitch.tv/nomadCodeMist "Perfil no Twitch") | JS / React | Canal no Twitch com live code sobre JS e React. |
+| [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured "Canal do Youtube de Peixe Babel") | Tecnologia | Canal que aborda curiosidades sobre tecnologia. |
 
 ## Para contribuir
 
