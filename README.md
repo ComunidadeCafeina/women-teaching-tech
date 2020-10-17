@@ -8,8 +8,9 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 
 | Nome/Link | Tema |  Descrição |
 | ------------ | ------------ | ------------ |
+| [Compiladoras de Cafeína](https://www.youtube.com/channel/UCGWQeMQAYnWINj5_0ViCAjw "Comunidade Compiladoras de Cafeína") | Comunidade | Nosso canal! (O último que tivemos foi apagado) |
 | [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "WoMakersCode") | Comunidade | Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia. |
-| [Compiladoras de Cafeína](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Compiladoras de Cafeína") | Comunidade | Canal com lives períodicas com tutoriais, bootcamps e carreira na TI. |
+| [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Comunidade Devs JavaGirl BR") | Comunidade | Canal com lives períodicas com tutoriais, bootcamps e carreira na TI. |
 | [Loiane Groner](https://loiane.training/ "Loiane Groner") | Java, Angular | Cursos: Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4. |
 | [DB4Beginners](https://www.youtube.com/channel/UCAhMgZRoZtAnJETcbYG51WQ "DB4Beginners") | Banco de Dados | Canal sobre banco de dados relacionais e não relacionais. A Dani também tem cursos sobre MongoDB no [dani.academy](https://dani.academy/ "dani.academy"). |
 | [Trans de Programa](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") | Firebase | Canal sobre Firebase e diversidade.  |
