@@ -30,8 +30,6 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Nina Talks](https://www.instagram.com/nina_talks/?hl=pt-br "Perfil do Instagram da Nina Talks") | UI/UX design e Tecnologia | Perfil com dicas de UI/UX design e assuntos relacionados à tecnologia. |
 | [Juliana Negreiros](https://twitter.com/juunegreiros "Perfil da Juliana Negreiros") | Web e Games | Instrutora de cursos na Alura. |
 | [Punk do DevOps](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") | DevOps | Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral. |
-| [PrograMaria](https://www.programaria.org/ "Site da comunidade PrograMaria") | Capacitação | Organização que visa, por meio de cursos, artigos e eventos, diminuir o gap de gênero no mercado de trabalho e empoderar mulheres através da tecnologia. |
-| [PodProgramar](https://podprogramar.com.br/ "Podcast PodProgramar") | Tecnologia |O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens. |
 | [Women Game Jam](https://www.twitch.tv/wgjbr/ "Perfil do Twitch da Women Game Jam") | Games | Evento sobre mulheres na indústria dos games. |
 | [StelByrn](https://www.twitch.tv/stelbyrn "Perfil do Twitch da StelByrn") | Flutter | Live coding de Flutter. |
 | [Ellen Körbes](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") | Go | Curso para aprender a programar com GO. |
@@ -53,8 +51,11 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [nomadCodeMist](https://www.twitch.tv/nomadCodeMist "Perfil no Twitch") | JS / React | Canal no Twitch com live code sobre JS e React. |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo/ "Canal Youtube") | Go | Canal no Youtube com conteúdo sobre a linguagem Go. |
 | [Coding Blonde :us:](https://www.youtube.com/c/CodingBlonde/featured "Canal do Youtube de Masha") 🇷🇺 | Tecnologia | Canal no youtube com conteúdo sobre HTML, Blockchain, Python e outras curiosidades sobre tecnologia.| 
+| [lelemaine channel](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") | Tecnologia | Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e incentivar mulheres a ingressar nessa área. | 
+| [Vida Programação](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") | Programação mobile | Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas. |
+| [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") | Python | Canal sobre contéudos básicos de Python e algoritmo. |
 
-## Para contribuir
+## Para contribuir 
 
 :point_right: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
 
