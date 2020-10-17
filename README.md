@@ -47,8 +47,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Wonder Wanny](https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ "Canal do Youtube da Vannessa Barr") | Banco de dados | Canal sobre banco de dados. |
 | [Carla Vieira](https://www.youtube.com/eaicarla "Canal do Youtube E AI, Carla?") | IA | Conteúdo sobre ciência, Inteligência Artificial, tecnologia e seus impactos na sociedade. |
 | [PACHIcodes](https://www.twitch.tv/pachicodes "Perfil do Twitch da PACHI") | HTML e CSS | Live Coding de HTML e CSS. |
-| [Elas Programam](https://www.linkedin.com/company/elasprogramam/) | Comunidade | Plataforma e movimento para aumentar a presença e permanência de mulheres no mercado de tecnologia.
-| [{Reprograma}](https://reprograma.com.br/) | Capacitação | Iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
+| [Liara Programadora](https://www.youtube.com/c/LiaraProgramadora "Canal do Youtube da Liara Programadora") | Programação | Canal sobre programação. |
 ## Para contribuir
 
 :point_right: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
