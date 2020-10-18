@@ -55,6 +55,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Vida Programação](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") | Programação mobile | Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas. |
 | [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") | Python | Canal sobre contéudos básicos de Python e algoritmo. |
 | [AltThabs] (https://www.twitch.tv/altthabs "Canal na Twitch da Thabata") | NodeJS e CSS | Conteúdo básico sobre NodeJS e CSS |
+| [Curso de Lógica de Programação](https://youtu.be/lymtuqJdf8U/ "Canal Youtube") | Programação | Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu |
 
 ## Para contribuir 
 
