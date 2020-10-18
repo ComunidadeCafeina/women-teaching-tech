@@ -13,6 +13,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [PyLadies](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") **(Python)** Comunidade que posta lives sobre Python.
 - [ TheFemTech Community](https://www.youtube.com/c/thefemtechcommunity) **(Tecnologia)** Canal com lives e palestras de seus eventos
 - [ QA Ladies ](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos) **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [ Sysadminas ](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured) **(Tecnologia)** Canal com lives e palestras de seus eventos
+
 
 
 ## Cursos (gratuitos e pagos) :sparkles:
