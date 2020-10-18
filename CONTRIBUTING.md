@@ -17,6 +17,8 @@ Para que o conteúdo faça sentido para esse repositório, antes de enviar uma s
 3. Qualquer assunto relacionado sobre tecnologia e inclusão de mulheres em TI é válido.
 4. O conteúdo não precisa ser 100% sobre TI, mas precisa ser a maioria.
 5. Antes de adicionar, verifique se o canal já não está na lista.
+6. A ordem de inclusão deve ser feita ao final da categoria mais adequada para o canal/curso.
+7. Evite colocar termos genéricos como "tecnologia" nos tópicos. Use "tecnologia" quando o canal/curso não foca em nada específico.
 
 ## Como contribuir?
 
