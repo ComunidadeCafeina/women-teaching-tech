@@ -11,6 +11,9 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Comunidade Devs JavaGirl BR") **(Java)** Canal com lives períodicas com tutoriais, bootcamps e carreira na TI.
 - [Cloud Girls](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 - [PyLadies](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") **(Python)** Comunidade que posta lives sobre Python.
+- [PyLadies Recife](https://www.youtube.com/channel/UCNvD7aTKi9Fuyz74wL3Kn9w "Canal no Youtube das PyLadies Recife") **(Python)** Comunidade que posta lives sobre Python
+- [Girls Support Girls](https://www.youtube.com/channel/UC6y3snU-KmvWcyEQEsoL3mA "Canal no Youtube da comunidade Girls Support Girls") **(Tecnologia, Python)** Canal no Youtube com conteúdo de Python.
+- [WiMLDS SP](https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/ "Canal no Youtube da comunidade WiMLDS São Paulo") **(R)** Canal no Youtube com conteúdo sobre estatística e machine learning em R.
 
 ## Cursos (gratuitos e pagos) :sparkles:
 - [Loiane Groner](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
@@ -52,6 +55,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [lelemaine channel](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") **(Tecnologia)** Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e centivar mulheres a ingressar nessa área. 
 - [Vida Programação](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") **(Mobile)** Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas.
 - [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") **(Python)** Canal sobre contéudos básicos de Python e algoritmo.
+- [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos "Canal no YouTube de Julia") **(Tecnologia)** Canal com contéudos relacionados a tecnologia, software, hardware e outros aspectos da engenharia da computação.
 
 ## Streamers (live coding) :joystick:
 
