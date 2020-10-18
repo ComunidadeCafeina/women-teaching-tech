@@ -42,6 +42,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Cloud Girls](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") | Cloud | Comunidade que posta lives sobre cloud. |
 | [Cah Felix](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") | HTML/CSS | Cursos de HTML e CSS para iniciantes. |
 | [PyLadies](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") | Python | Comunidade que posta lives sobre Python. |
+| [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Canal do Youtube das Devs JavaGirl BR") | Java | Comunidade que posta conteúdos e dicas sobre Java. |
 
 ## Para contribuir
 
