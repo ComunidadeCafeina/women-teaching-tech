@@ -5,7 +5,7 @@ Ficamos muito gratas com a sua contribuição na lista! Siga as instruções aba
 **Formato:**
 
 ```markdown
-Nome da pessoa (ou nome do canal) (adicionar :us: se o conteúdo for em inglês) **(Tópico, no máximo 2)** Pequena descrição sobre o curso/canal
+[Nome da pessoa/canal (adicionar :us: se for em inglês)](link-canal.com)  **(Tópico, no máximo 2)** Pequena descrição sobre o curso/canal
 ```
 
 ## Regras
