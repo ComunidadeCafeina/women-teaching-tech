@@ -2,14 +2,21 @@
 
 Ficamos muito gratas com a sua contribuição na lista! Siga as instruções abaixo e qualquer dúvida é só entrar em contato com a gente no nosso e-mail **compiladoras@gmail.com**.
 
+**Formato:**
+
+```markdown
+Nome da pessoa (ou nome do canal) (adicionar :us: se o conteúdo for em inglês) **(Tópico, no máximo 2)** Pequena descrição sobre o curso/canal
+```
+
 ## Regras
 
 Para que o conteúdo faça sentido para esse repositório, antes de enviar uma solicitação, leia essas regrinhas:
 
 1. O conteúdo deve ser produzido por uma ou mais mulheres.
-2. O conteúdo deve ser em **vídeo**, sendo postado em plataformas como Youtube ou Udemy.
+2. O conteúdo deve ser em **vídeo**, sendo postado em plataformas como Youtube, Udemy ou Twitch.
 3. Qualquer assunto relacionado sobre tecnologia e inclusão de mulheres em TI é válido.
 4. O conteúdo não precisa ser 100% sobre TI, mas precisa ser a maioria.
+5. Antes de adicionar, verifique se o canal já não está na lista.
 
 ## Como contribuir?
 
