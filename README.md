@@ -8,8 +8,9 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 
 | Nome/Link | Tema |  Descrição |
 | ------------ | ------------ | ------------ |
+| [Compiladoras de Cafeína](https://www.youtube.com/channel/UCGWQeMQAYnWINj5_0ViCAjw "Comunidade Compiladoras de Cafeína") | Comunidade | Nosso canal! (O último que tivemos foi apagado) |
 | [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "WoMakersCode") | Comunidade | Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia. |
-| [Compiladoras de Cafeína](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Compiladoras de Cafeína") | Comunidade | Canal com lives períodicas com tutoriais, bootcamps e carreira na TI. |
+| [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Comunidade Devs JavaGirl BR") | Comunidade | Canal com lives períodicas com tutoriais, bootcamps e carreira na TI. |
 | [Loiane Groner](https://loiane.training/ "Loiane Groner") | Java, Angular | Cursos: Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4. |
 | [DB4Beginners](https://www.youtube.com/channel/UCAhMgZRoZtAnJETcbYG51WQ "DB4Beginners") | Banco de Dados | Canal sobre banco de dados relacionais e não relacionais. A Dani também tem cursos sobre MongoDB no [dani.academy](https://dani.academy/ "dani.academy"). |
 | [Trans de Programa](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") | Firebase | Canal sobre Firebase e diversidade.  |
@@ -29,8 +30,6 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Nina Talks](https://www.instagram.com/nina_talks/?hl=pt-br "Perfil do Instagram da Nina Talks") | UI/UX design e Tecnologia | Perfil com dicas de UI/UX design e assuntos relacionados à tecnologia. |
 | [Juliana Negreiros](https://twitter.com/juunegreiros "Perfil da Juliana Negreiros") | Web e Games | Instrutora de cursos na Alura. |
 | [Punk do DevOps](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") | DevOps | Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral. |
-| [PrograMaria](https://www.programaria.org/ "Site da comunidade PrograMaria") | Capacitação | Organização que visa, por meio de cursos, artigos e eventos, diminuir o gap de gênero no mercado de trabalho e empoderar mulheres através da tecnologia. |
-| [PodProgramar](https://podprogramar.com.br/ "Podcast PodProgramar") | Tecnologia |O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens. |
 | [Women Game Jam](https://www.twitch.tv/wgjbr/ "Perfil do Twitch da Women Game Jam") | Games | Evento sobre mulheres na indústria dos games. |
 | [StelByrn](https://www.twitch.tv/stelbyrn "Perfil do Twitch da StelByrn") | Flutter | Live coding de Flutter. |
 | [Ellen Körbes](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") | Go | Curso para aprender a programar com GO. |
@@ -43,8 +42,23 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Cah Felix](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") | HTML/CSS | Cursos de HTML e CSS para iniciantes. |
 | [PyLadies](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") | Python | Comunidade que posta lives sobre Python. |
 | [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Canal do Youtube das Devs JavaGirl BR") | Java | Comunidade que posta conteúdos e dicas sobre Java. |
+| [Kizzy Terra](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR "Canal do Youtube Programação Dinamica") | Ciência de Dados | Canal sobre análise de dados e data science. |
+| [Wonder Wanny](https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ "Canal do Youtube da Vannessa Barr") | Banco de dados | Canal sobre banco de dados. |
+| [Carla Vieira](https://www.youtube.com/eaicarla "Canal do Youtube E AI, Carla?") | IA | Conteúdo sobre ciência, Inteligência Artificial, tecnologia e seus impactos na sociedade. |
+| [PACHIcodes](https://www.twitch.tv/pachicodes "Perfil do Twitch da PACHI") | HTML e CSS | Live Coding de HTML e CSS. |
+| [Liara Programadora](https://www.youtube.com/channel/UCkjlpKaG0SUeCQso6Lt2gbg "Canal do Youtube de Liara Programadora") |Tecnologia | Conteúdo de programação voltado para o frontend.|
+| [Nina Da Hora](https://www.youtube.com/channel/UCQ9fpGb7sOBYvbVN9OcVtJQ "Canal do Youtube de Nina Da Hora") |Tecnologia | Conteúdo sobre pensamento computacional.|
+| [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") | Tecnologia | Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
+| [nomadCodeMist](https://www.twitch.tv/nomadCodeMist "Perfil no Twitch") | JS / React | Canal no Twitch com live code sobre JS e React. |
+| [Aprenda Go](https://www.youtube.com/c/AprendaGo/ "Canal Youtube") | Go | Canal no Youtube com conteúdo sobre a linguagem Go. |
+| [Coding Blonde :us:](https://www.youtube.com/c/CodingBlonde/featured "Canal do Youtube de Masha") 🇷🇺 | Tecnologia | Canal no youtube com conteúdo sobre HTML, Blockchain, Python e outras curiosidades sobre tecnologia.| 
+| [lelemaine channel](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") | Tecnologia | Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e incentivar mulheres a ingressar nessa área. | 
+| [Vida Programação](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") | Programação mobile | Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas. |
+| [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") | Python | Canal sobre contéudos básicos de Python e algoritmo. |
+| [AltThabs] (https://www.twitch.tv/altthabs "Canal na Twitch da Thabata") | NodeJS e CSS | Conteúdo básico sobre NodeJS e CSS |
+| [Curso de Lógica de Programação](https://youtu.be/lymtuqJdf8U/ "Canal Youtube") | Programação | Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu |
 
-## Para contribuir
+## Para contribuir 
 
 :point_right: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
 
