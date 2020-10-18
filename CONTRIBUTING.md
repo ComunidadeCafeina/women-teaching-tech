@@ -12,7 +12,7 @@ Ficamos muito gratas com a sua contribuição na lista! Siga as instruções aba
 
 Para que o conteúdo faça sentido para esse repositório, antes de enviar uma solicitação, leia essas regrinhas:
 
-1. O conteúdo deve ser produzido por uma ou mais mulheres.
+1. O conteúdo deve ser produzido por uma ou mais mulheres (apenas mulheres).
 2. O conteúdo deve ser em **vídeo**, sendo postado em plataformas como Youtube, Udemy ou Twitch.
 3. Qualquer assunto relacionado sobre tecnologia e inclusão de mulheres em TI é válido.
 4. O conteúdo não precisa ser 100% sobre TI, mas precisa ser a maioria.
