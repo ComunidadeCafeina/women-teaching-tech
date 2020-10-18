@@ -11,6 +11,11 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Comunidade Devs JavaGirl BR") **(Java)** Canal com lives períodicas com tutoriais, bootcamps e carreira na TI.
 - [Cloud Girls](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 - [PyLadies](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") **(Python)** Comunidade que posta lives sobre Python.
+- [ TheFemTech Community](https://www.youtube.com/c/thefemtechcommunity) **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [ QA Ladies ](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos) **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [ Sysadminas ](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured) **(Tecnologia)** Canal com lives e palestras de seus eventos
+
+
 
 ## Cursos (gratuitos e pagos) :sparkles:
 - [Loiane Groner](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
