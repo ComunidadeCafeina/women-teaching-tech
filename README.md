@@ -14,6 +14,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [ TheFemTech Community](https://www.youtube.com/c/thefemtechcommunity) **(Tecnologia)** Canal com lives e palestras de seus eventos
 - [ QA Ladies ](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos) **(Tecnologia)** Canal com lives e palestras de seus eventos
 - [ Sysadminas ](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured) **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [Meninas Digitais SBC](https://www.youtube.com/c/MeninasDigitaisSBC/featured) **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 
 
