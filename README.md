@@ -57,6 +57,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [lelemaine channel](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") **(Tecnologia)** Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e centivar mulheres a ingressar nessa área. 
 - [Vida Programação](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") **(Mobile)** Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas.
 - [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") **(Python)** Canal sobre contéudos básicos de Python e algoritmo.
+- [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
+- [PodProgramar](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
 ## Streamers (live coding) :joystick:
 
