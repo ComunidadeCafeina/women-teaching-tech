@@ -6,17 +6,15 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 ## Canais de comunidades :star:
 
-- [Compiladoras de Cafeína](https://www.youtube.com/channel/UCGWQeMQAYnWINj5_0ViCAjw "Comunidade Compiladoras de Cafeína") **(Tecnologia)** Nosso canal! (O último que tivemos foi apagado)
-- [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
-- [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Comunidade Devs JavaGirl BR") **(Java)** Canal com lives períodicas com tutoriais, bootcamps e carreira na TI.
+- [Compiladoras de Cafeína](https://www.youtube.com/channel/UCGWQeMQAYnWINj5_0ViCAjw "Canal do Youtube das Compiladoras de Cafeína") **(Tecnologia)** Nosso canal! (O último que tivemos foi apagado)
+- [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "Canal do Youtube da WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
+- [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Canal do Youtube das Devs JavaGirl BR") **(Java)** Canal com lives períodicas com tutoriais, bootcamps e carreira na TI.
 - [Cloud Girls](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 - [PyLadies](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") **(Python)** Comunidade que posta lives sobre Python.
-- [ TheFemTech Community](https://www.youtube.com/c/thefemtechcommunity) **(Tecnologia)** Canal com lives e palestras de seus eventos
-- [ QA Ladies ](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos) **(Tecnologia)** Canal com lives e palestras de seus eventos
-- [ Sysadminas ](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured) **(Tecnologia)** Canal com lives e palestras de seus eventos
-- [Meninas Digitais SBC ](https://www.youtube.com/c/MeninasDigitaisSBC/featured) **(Tecnologia)** Canal com lives e palestras de seus eventos
-
-
+- [TheFemTech Community](https://www.youtube.com/c/thefemtechcommunity "Canal do Youtube da TheFemTech Community") **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [QA Ladies](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos "Canal do Youtube QA Ladies") **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [Sysadminas](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured "Canal do Youtube Sysadminas") **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [Meninas Digitais SBC](https://www.youtube.com/c/MeninasDigitaisSBC/featured "Canal do Youtube das Meninas Digitais SBC") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 ## Cursos (gratuitos e pagos) :sparkles:
 - [Loiane Groner](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
@@ -25,12 +23,11 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow "Michelli Brito") **(Java, Angular)** Cursos de Java com Sprint Boot, deploys de aplicações no AWS, Azure e curso de Angular.
 - [Sandyara Peres](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
 - [Academia Hopper](https://www.youtube.com/channel/UCh23-TkLtF8NCtk5hGP9aEg "Academia Hopper") **(Lógica de Programação)** Curso de lógica de programação, curso de Python, mulheres na carreira de tecnologia.
-- [Mônica Mesquita](https://www.udemy.com/course/interfacenapratica/?referralCode=86F649EDC5648E5265BA "Mônica Mesquita") **(UI Design)** Design de interfaces com o Adobe XD.
+- [Mônica Mesquita](https://www.udemy.com/course/interfacenapratica/ "Mônica Mesquita") **(UI Design)** Design de interfaces com o Adobe XD.
 - [Ellen Körbes](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") **(Go)** Curso para aprender a programar com GO.
 - [Ana no Terminal](https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg "Canal do Youtube da Ana no Terminal") **(Python)** Curso de introdução a programação com Python.
 - [Cah Felix](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") **(HTML/CSS)** Cursos de HTML e CSS para iniciantes.
-- [Aprenda Go](https://www.youtube.com/c/AprendaGo/ "Canal Youtube") **(Go)** Canal no Youtube com conteúdo sobre a linguagem Go.
-- [Curso de Lógica de Programação](https://youtu.be/lymtuqJdf8U/ "Canal Youtube") **(Programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
+- [Labenu](https://youtu.be/lymtuqJdf8U/ "Canal Labenu") **(Lógica de programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
 
 ## Youtubers :video_camera:
 - [DB4Beginners](https://www.youtube.com/channel/UCAhMgZRoZtAnJETcbYG51WQ "DB4Beginners") **(Banco de dados)** Canal sobre banco de dados relacionais e não relacionais. 
