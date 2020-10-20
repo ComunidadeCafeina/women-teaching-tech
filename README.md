@@ -32,6 +32,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Ana no Terminal](https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg "Canal do Youtube da Ana no Terminal") **(Python)** Curso de introdução a programação com Python.
 - [Cah Felix](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") **(HTML/CSS)** Cursos de HTML e CSS para iniciantes.
 - [Labenu](https://youtu.be/lymtuqJdf8U/ "Canal Labenu") **(Lógica de programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
+- [Giuliana Silva Bezerra](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/) **(Java, Spring)** Curso para desenvolvimento de jobs com Spring Batch.
 
 ## Youtubers :video_camera:
 - [DB4Beginners](https://www.youtube.com/channel/UCAhMgZRoZtAnJETcbYG51WQ "DB4Beginners") **(Banco de dados)** Canal sobre banco de dados relacionais e não relacionais. 
