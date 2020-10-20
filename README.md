@@ -12,7 +12,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Cloud Girls](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 - [PyLadies](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") **(Python)** Comunidade que posta lives sobre Python.
 - [PyLadies Recife](https://www.youtube.com/channel/UCNvD7aTKi9Fuyz74wL3Kn9w "Canal no Youtube das PyLadies Recife") **(Python)** Comunidade que posta lives sobre Python
-- [Girls Support Girls](https://www.youtube.com/channel/UC6y3snU-KmvWcyEQEsoL3mA "Canal no Youtube da comunidade Girls Support Girls") **(Tecnologia, Python)** Canal no Youtube com conteúdo de Python.
+- [Girls Support Girls](https://www.youtube.com/channel/UC6y3snU-KmvWcyEQEsoL3mA "Canal no Youtube da comunidade Girls Support Girls") **(Python)** Canal no Youtube com conteúdo de Python.
 - [WiMLDS SP](https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/ "Canal no Youtube da comunidade WiMLDS São Paulo") **(R)** Canal no Youtube com conteúdo sobre estatística e machine learning em R.
 
 ## Cursos (gratuitos e pagos) :sparkles:
