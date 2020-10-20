@@ -17,6 +17,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [ TheFemTech Community](https://www.youtube.com/c/thefemtechcommunity) **(Tecnologia)** Canal com lives e palestras de seus eventos
 - [ QA Ladies ](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos) **(Tecnologia)** Canal com lives e palestras de seus eventos
 - [ Sysadminas ](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured) **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [Female Tech Leaders](https://www.youtube.com/channel/UCUDJXqBKInhpfRaSYzd73xg) **(Tecnologia)** Comunidade para promover, inspirar e motivar mulheres na tecnologia.
 
 ## Cursos (gratuitos e pagos) :sparkles:
 - [Loiane Groner](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
