@@ -14,6 +14,9 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [PyLadies Recife](https://www.youtube.com/channel/UCNvD7aTKi9Fuyz74wL3Kn9w "Canal no Youtube das PyLadies Recife") **(Python)** Comunidade que posta lives sobre Python
 - [Girls Support Girls](https://www.youtube.com/channel/UC6y3snU-KmvWcyEQEsoL3mA "Canal no Youtube da comunidade Girls Support Girls") **(Python)** Canal no Youtube com conteúdo de Python.
 - [WiMLDS SP](https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/ "Canal no Youtube da comunidade WiMLDS São Paulo") **(R)** Canal no Youtube com conteúdo sobre estatística e machine learning em R.
+- [ TheFemTech Community](https://www.youtube.com/c/thefemtechcommunity) **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [ QA Ladies ](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos) **(Tecnologia)** Canal com lives e palestras de seus eventos
+- [ Sysadminas ](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured) **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 ## Cursos (gratuitos e pagos) :sparkles:
 - [Loiane Groner](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
