@@ -18,6 +18,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Meninas Digitais SBC](https://www.youtube.com/c/MeninasDigitaisSBC/featured "Canal do Youtube das Meninas Digitais SBC") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
+- [PyLadies Brasil](https://www.youtube.com/c/BrazilPyLadies "Canal do Youtube das PyLadies Brasil") **(Python, Tecnologia)** Comunidade que posta lives sobre Python e assuntos correlatos.
+
 - [PyLadies Sp](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") **(Python)** Comunidade que posta lives sobre Python.
 
 - [PyLadies Recife](https://www.youtube.com/channel/UCNvD7aTKi9Fuyz74wL3Kn9w "Canal no Youtube das PyLadies Recife") **(Python)** Comunidade que posta lives sobre Python
