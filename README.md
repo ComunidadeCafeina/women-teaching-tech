@@ -47,6 +47,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Juliana Servidoni](https://www.udemy.com/course/curso-de-jornalismo-de-dados-introducao/ "Curso de jornalismo de dados") **(Ciência de dados)** Curso de jornalismo de dados com Python.
 
 - [Labenu](https://youtu.be/lymtuqJdf8U/ "Canal Labenu") **(Lógica de programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
+- [Giuliana Silva Bezerra](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/) **(Java, Spring)** Curso para desenvolvimento de jobs com Spring Batch.
 
 - [Loiane Groner](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
 
