@@ -124,17 +124,17 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [AltThabs](https://www.twitch.tv/altthabs "Canal na Twitch da Thabata") **(NodeJS, CSS)** Conteúdo básico sobre NodeJS e CSS.
 
-- [bellesamways](https://www.twitch.tv/bellesamways "Canal na Twitch da Isabelle Samways") **(Ruby, Rails, back-end)** Live coding de Ruby.
+- [bellesamways](https://www.twitch.tv/bellesamways "Canal na Twitch da Isabelle Samways") **(Backend)** Live coding de Ruby.
 
 - [biaherculano](https://www.twitch.tv/biaherculano "Canal na Twitch da Beatriz Herculano") **(Flutter)** Live coding de Flutter.
 
-- [caaddss](https://www.twitch.tv/caaddss "Canal na Twitch da Carol Dantas") **(Python, Ciência de dados, Neurociência)** Live coding de Python, Data Science e conversas sobre neurociência.
+- [caaddss](https://www.twitch.tv/caaddss "Canal na Twitch da Carol Dantas") **(Python, Ciência de dado)** Live coding de Python, Data Science e conversas sobre neurociência.
 
-- [carlaprv](https://www.twitch.tv/carlaprv "Canal na Twitch da Carla Vieira") **(Tecnologia, Inteligência Artificial, Discussões de raça e gênero)** Conteúdos sobre: tecnologia, Inteligência Artificial, livros, séries, política, discussões de raça e gênero - e também a relação entre todos esses tópicos.
+- [carlaprv](https://www.twitch.tv/carlaprv "Canal na Twitch da Carla Vieira") **(IA, Discussões de raça e gênero)** Conteúdos sobre: tecnologia, Inteligência Artificial, livros, séries, política, discussões de raça e gênero - e também a relação entre todos esses tópicos.
 
-- [erikaheidi](https://www.twitch.tv/erikaheidi "Canal na Twitch da Erika Heidi") **(PHP, Laravel, Desenvolvimento Web, DevOps)** Live coding de PHP moderno e experimental, Laravel e Web Development e um pouco de devOps.
+- [erikaheidi](https://www.twitch.tv/erikaheidi "Canal na Twitch da Erika Heidi") **(Desenvolvimento Web, DevOps)** Live coding de PHP moderno e experimental, Laravel e Web Development e um pouco de devOps.
 
-- [glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86 "Canal na Twitch da Glaucia Lemos") **(Node, Typescript, C#, AngularJS, Vue)** Live cpding de Node, C#, Typescript, AngularJS e Vue.
+- [glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86 "Canal na Twitch da Glaucia Lemos") **(Backend, Frontend)** Live coding de Node, C#, Typescript, AngularJS e Vue.
 
 - [julialabs](https://www.twitch.tv/julialabs "Canal na Twitch da Julia") **(Maker, Hardware)** Lives de hardware diretamente do laboratório.
 
@@ -143,9 +143,9 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [karlamag](https://www.twitch.tv/karlamag "Canal na Twitch da Karla") **(Python)** Live coding de Python.
 
-- [larabeatrizms](https://www.twitch.tv/larabeatrizms "Canal na Twitch da Lara Beatriz") **(Nodejs, ReactJS e React Native)** Live coding de Nodejs, ReactJS e React Native.
+- [larabeatrizms](https://www.twitch.tv/larabeatrizms "Canal na Twitch da Lara Beatriz") **(Nodejs, React)** Live coding de Nodejs, ReactJS e React Native.
 
-- [lehmaria](https://www.twitch.tv/lehmaria "Canal na Twitch da Leh Maria") **(JavaScript, TypeScript, HTML & CSS, Desenvolvimento Front-End)** Live coding de JavaScript, TypeScript e HTML & CSS.
+- [lehmaria](https://www.twitch.tv/lehmaria "Canal na Twitch da Leh Maria") **(Desenvolvimento Front-End)** Live coding de JavaScript, TypeScript e HTML & CSS.
 
 - [levxyca](https://www.twitch.tv/levxyca "Canal na Twitch da Levxyca") **(C, C++)** Live coding de C e C++.
 
@@ -155,7 +155,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [PACHIcodes](https://www.twitch.tv/pachicodes "Perfil do Twitch da PACHI") **(HTML, CSS)** Live Coding de HTML e CSS.
 
-- [punkdodevops](https://www.twitch.tv/punkdodevops "Canal na Twitch da Camila Martins") **(DevOps, carreira, tecnologia)** Live coding de DevOps e conversas sobre carreira e tecnologia.
+- [punkdodevops](https://www.twitch.tv/punkdodevops "Canal na Twitch da Camila Martins") **(DevOps, Carreira)** Live coding de DevOps e conversas sobre carreira e tecnologia.
 
 - [shebangbash](https://www.twitch.tv/shebangbash "Canal na Twitch da ") **(QA, Python)** Live coding sobre QA e Python.
 
