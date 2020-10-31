@@ -69,6 +69,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g "Attekita Dev") **(Games)** Desenvolvimento de games, carreira freelancer, programação, carreira.
 
+- [Ca Byte](https://www.youtube.com/channel/UC36ypRGXm9_Mfra57l0SAJg "Ca Byte") **(Programação)** Vídeos para iniciantes na área da TI, onde ela dá dicas e explicações sobre programação.
+
 - [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") **(Tecnologia)** Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.
 
 - [Cami Massaneiro](https://www.youtube.com/channel/UCXmsvv6sgbaGImyahuRaWxg "Cami Massaneiro") **(Tecnologia)** Inovação e tecnologia, programação, feiras tecnológicas, dicas de empreendedorismo e assuntos relevantes do dia-a-dia.
