@@ -58,6 +58,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Mônica Mesquita](https://www.udemy.com/course/interfacenapratica/ "Mônica Mesquita") **(UI Design)** Design de interfaces com o Adobe XD.
 
+-[Programaria](https://www.programaria.org "Programaria") ** (Programação) **  Startup que empodera meninas e mulheres por meio de tecnologia.
+
 - [Sandyara Peres](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
 
 
