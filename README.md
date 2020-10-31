@@ -107,8 +107,6 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel "Canal Peixe Babel") **(Tecnologia)** Canal com diversos conteúdos sobre ciência de dados, entrevistas e muito mais.
 
-- [PodProgramar](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
-
 - [Punk do DevOps](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") **(DevOps)** Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral.
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
@@ -162,6 +160,11 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [StelByrn](https://www.twitch.tv/stelbyrn "Perfil do Twitch da StelByrn") **(Flutter)** Live coding de Flutter.
 
 - [Women Game Jam](https://www.twitch.tv/wgjbr/ "Perfil do Twitch da Women Game Jam") **(Games)** Evento sobre mulheres na indústria dos games.
+
+
+## Podcasters :studio_microphone:
+
+- [PodProgramar](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
 
 ## Para contribuir 
