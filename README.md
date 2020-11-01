@@ -33,6 +33,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [WiMLDS SP](https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/ "Canal no Youtube da comunidade WiMLDS São Paulo") **(R)** Canal no Youtube com conteúdo sobre estatística e machine learning em R.
 
 - [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "Canal do Youtube da WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
+- [PrograMaria](https://www.youtube.com/c/PrograMaria/featured) **(Tecnologia)** A PrograMaria é uma startup social que empodera meninas e mulheres com habilidades em tecnologia e programação. Realiza eventos, oficinas, cursos de formação técnica e outras ações que ajudam empresas a promover diversidade e a atrarir e recrutar mais mulheres.
 
 ## Cursos (gratuitos e pagos) :sparkles:
 
