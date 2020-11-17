@@ -18,6 +18,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Meninas Digitais SBC](https://www.youtube.com/c/MeninasDigitaisSBC/featured "Canal do Youtube das Meninas Digitais SBC") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
+- [PrograMaria](https://www.youtube.com/c/PrograMaria/featured "Canal do Youtube da PrograMaria") **(Tecnologia)** A PrograMaria é uma startup social que empodera meninas e mulheres com habilidades em tecnologia e programação. Realiza eventos, oficinas, cursos de formação técnica e outras ações que ajudam empresas a promover diversidade e a atrarir e recrutar mais mulheres.
+
 - [PyLadies Brasil](https://www.youtube.com/c/BrazilPyLadies "Canal do Youtube das PyLadies Brasil") **(Python, Tecnologia)** Comunidade que posta lives sobre Python e assuntos correlatos.
 
 - [PyLadies Sp](https://www.youtube.com/c/PyLadiesS%C3%A3oPaulo "Canal do Youtube das PyLadies São Paulo") **(Python)** Comunidade que posta lives sobre Python.
@@ -33,7 +35,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [WiMLDS SP](https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/ "Canal no Youtube da comunidade WiMLDS São Paulo") **(R)** Canal no Youtube com conteúdo sobre estatística e machine learning em R.
 
 - [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "Canal do Youtube da WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
-- [PrograMaria](https://www.youtube.com/c/PrograMaria/featured) **(Tecnologia)** A PrograMaria é uma startup social que empodera meninas e mulheres com habilidades em tecnologia e programação. Realiza eventos, oficinas, cursos de formação técnica e outras ações que ajudam empresas a promover diversidade e a atrarir e recrutar mais mulheres.
+
 
 ## Cursos (gratuitos e pagos) :sparkles:
 
