@@ -8,6 +8,10 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Cloud Girls](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
+- [Code First Girls](https://www.youtube.com/channel/UCi9uPFzIg0eegj4ZFE3Co3w/videos "Canal do Youtube da Code First Girls") **(Tecnologia)** Comunidade que posta lives sobre tecnologia no geral.
+
+- [Code Like a Girl](https://www.youtube.com/channel/UCbfTYnrxxjqzdZQm_202Rug "Canal do Youtube da Code Like a Girl") **(Tecnologia)** Comunidade que posta lives sobre tecnologia no geral.
+
 - [Compiladoras de Cafeína](https://www.youtube.com/channel/UCGWQeMQAYnWINj5_0ViCAjw "Canal do Youtube das Compiladoras de Cafeína") **(Tecnologia)** Nosso canal! (O último que tivemos foi apagado)
 
 - [Devs JavaGirl BR](https://www.youtube.com/channel/UCgoGOLleKmM9ikxQhGhhOhQ "Canal do Youtube das Devs JavaGirl BR") **(Java)** Canal com lives períodicas com tutoriais, bootcamps e carreira na TI.
