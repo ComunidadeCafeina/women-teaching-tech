@@ -40,11 +40,10 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [WoMakersCode](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "Canal do Youtube da WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
 
-
 ## Cursos (gratuitos e pagos) :sparkles:
 
 - [Academia Hopper](https://www.youtube.com/channel/UCh23-TkLtF8NCtk5hGP9aEg "Academia Hopper") **(Lógica de Programação)** Curso de lógica de programação, curso de Python, mulheres na carreira de tecnologia.
-- [ Dr. Angela Yu :us: ](https://www.udemy.com/course/the-complete-web-development-bootcamp/)   **(full-stack web development)** Courses for Front-End and Backend Web Development.
+- [ Dr. Angela Yu :us: ](https://www.udemy.com/course/the-complete-web-development-bootcamp/) **(full-stack web development)** Courses for Front-End and Backend Web Development.
 
 - [Ana no Terminal](https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg "Canal do Youtube da Ana no Terminal") **(Python)** Curso de introdução a programação com Python.
 
@@ -68,7 +67,6 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Sandyara Peres](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
 
-
 ## Youtubers :video_camera:
 
 - [Ana Beatriz Neri](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA "Canal do Youtube da Ana Beatriz Neri") **(Programação)** Curso de Spring Webflux, MongoDB e AWS.
@@ -76,6 +74,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Annelise Gripp](https://www.youtube.com/channel/UC5J9cT_aCh5I5QIC3QBKOiA "Annelise Gripp") **(Agile)** Vídeos sobre carreira de TI e Agile.
 
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g "Attekita Dev") **(Games)** Desenvolvimento de games, carreira freelancer, programação, carreira.
+
+- [Blondie Bytes :us:](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg "Blondie Bytes") **(Programação)** A Blondie Bytes manda uns “bitaites” sobre HTML e CSS, mas também te é capaz de ensinar a programar um chatbot.
 
 - [Ca Byte](https://www.youtube.com/channel/UC36ypRGXm9_Mfra57l0SAJg "Ca Byte") **(Programação)** Vídeos para iniciantes na área da TI, onde ela dá dicas e explicações sobre programação.
 
@@ -91,9 +91,9 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") **(Python)** Canal sobre contéudos básicos de Python e algoritmo.
 
-- [Dados de Julieta](https://www.youtube.com/dadosdejulieta "Canal do Youtube Dados de Julieta") **(Tecnologia, Python, Ciência de Dados)** Canal com o objetivo de ensinar Ciência de Dados, Python e tecnologia em geral de forma acessível e didática.  
+- [Dados de Julieta](https://www.youtube.com/dadosdejulieta "Canal do Youtube Dados de Julieta") **(Tecnologia, Python, Ciência de Dados)** Canal com o objetivo de ensinar Ciência de Dados, Python e tecnologia em geral de forma acessível e didática.
 
-- [DB4Beginners](https://www.youtube.com/channel/UCAhMgZRoZtAnJETcbYG51WQ "DB4Beginners") **(Banco de dados)** Canal sobre banco de dados relacionais e não relacionais. 
+- [DB4Beginners](https://www.youtube.com/channel/UCAhMgZRoZtAnJETcbYG51WQ "DB4Beginners") **(Banco de dados)** Canal sobre banco de dados relacionais e não relacionais.
 
 - [De Front com Aline](https://www.youtube.com/c/DeFrontcomAline "De Front com Aline") **(Carreira, Frontend)** Vídeos de experiências e dicas da Aline sobre a carreira de frontend.
 
@@ -107,7 +107,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Laboratório da Julia](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos "Canal no YouTube de Julia") **(Tecnologia)** Canal com contéudos relacionados a tecnologia, software, hardware e outros aspectos da engenharia da computação.
 
-- [lelemaine channel](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") **(Tecnologia)** Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e centivar mulheres a ingressar nessa área. 
+- [lelemaine channel](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") **(Tecnologia)** Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e centivar mulheres a ingressar nessa área.
 
 - [Liara Programadora](https://www.youtube.com/channel/UCkjlpKaG0SUeCQso6Lt2gbg "Canal do Youtube de Liara Programadora") **(Tecnologia)** Conteúdo de programação voltado para o frontend.
 
@@ -127,7 +127,6 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Wonder Wanny](https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ "Canal do Youtube da Vannessa Barr") **(Banco de dados)** Canal sobre banco de dados.
 
-
 ## Streamers (live coding) :joystick:
 
 - [AltThabs](https://www.twitch.tv/altthabs "Canal na Twitch da Thabata") **(NodeJS, CSS)** Conteúdo básico sobre NodeJS e CSS.
@@ -145,7 +144,6 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86 "Canal na Twitch da Glaucia Lemos") **(Backend, Frontend)** Live coding de Node, C#, Typescript, AngularJS e Vue.
 
 - [julialabs](https://www.twitch.tv/julialabs "Canal na Twitch da Julia") **(Maker, Hardware)** Lives de hardware diretamente do laboratório.
-
 
 - [juhbotelho](https://www.twitch.tv/juhbotelho "Canal na Twitch da Juh Botelho") **(PHP, Laravel)** Streams estudando programação num geral, com foco em PHP e Laravel.
 
@@ -171,15 +169,13 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Women Game Jam](https://www.twitch.tv/wgjbr/ "Perfil do Twitch da Women Game Jam") **(Games)** Evento sobre mulheres na indústria dos games.
 
-
 ## Podcasters :studio_microphone:
 
 - [Compiladoras Cast](https://anchor.fm/compiladoras "Podcast das Compiladoras de Cafeína") **(Tecnologia)** Discutimos sobre mulheres na tecnologia, carreiras e assuntos relacionados em podcasts divertidos e curtinhos.
 
 - [PodProgramar](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
-
-## Para contribuir 
+## Para contribuir
 
 :point_right: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
 
