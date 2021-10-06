@@ -5,7 +5,7 @@ Ficamos muito gratas com a sua contribuição na lista! Siga as instruções aba
 **Formato:**
 
 ```markdown
-[Nome da pessoa/canal (adicionar :us: se for em inglês)](link-canal.com)  **(Tópico, no máximo 2)** Pequena descrição sobre o curso/canal
+[Nome da pessoa/canal (linguagem :us: ou :brazil:)](link-canal.com)  **(Tópico, no máximo 2)** Pequena descrição sobre o curso/canal
 ```
 
 ## Regras
@@ -19,6 +19,7 @@ Para que o conteúdo faça sentido para esse repositório, antes de enviar uma s
 5. Antes de adicionar, verifique se o canal já não está na lista.
 6. A ordem de inclusão é alfabética.
 7. Evite colocar termos genéricos como "tecnologia" nos tópicos. Use "tecnologia" quando o canal/curso não foca em nada específico.
+8. A descrição do canal deve estar em português (PT-BR).
 
 ## Como contribuir?
 
