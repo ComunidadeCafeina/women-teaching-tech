@@ -30,6 +30,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [PyLadies Recife](https://www.youtube.com/channel/UCNvD7aTKi9Fuyz74wL3Kn9w "Canal no Youtube das PyLadies Recife") **(Python)** Comunidade que posta lives sobre Python
 
+- [PyLadies Phb](https://www.youtube.com/channel/UCSS9PKgt7zsaZDJ6ZeSLh6w "Canal do Youtube das PyLadies Parnaíba") **(Python, Tecnologia)** Comunidade que posta lives sobre Python e diversos assuntos da área de tecnologia.
+
 - [QA Ladies](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos "Canal do Youtube QA Ladies") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 - [Sysadminas](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured "Canal do Youtube Sysadminas") **(Tecnologia)** Canal com lives e palestras de seus eventos
