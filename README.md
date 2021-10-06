@@ -45,7 +45,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 ## Cursos (gratuitos e pagos) :sparkles:
 
 - [Academia Hopper](https://www.youtube.com/channel/UCh23-TkLtF8NCtk5hGP9aEg "Academia Hopper") **(Lógica de Programação)** Curso de lógica de programação, curso de Python, mulheres na carreira de tecnologia.
-- [ Dr. Angela Yu :us: ](https://www.udemy.com/course/the-complete-web-development-bootcamp/) **(full-stack web development)** Courses for Front-End and Backend Web Development.
+
+- [ Dr. Angela Yu :us: ](https://www.udemy.com/course/the-complete-web-development-bootcamp/) **(Fullstack)** Cursos de desenvolvimento Frontend e Backend.
 
 - [Ana no Terminal](https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg "Canal do Youtube da Ana no Terminal") **(Python)** Curso de introdução a programação com Python.
 
