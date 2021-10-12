@@ -52,11 +52,15 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Cah Felix](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") **(HTML/CSS)** Cursos de HTML e CSS para iniciantes.
 
+- [Camila Ferreira](https://web.digitalinnovation.one/course/trabalhando-com-paginas-spa-com-angular/learning/f91b184b-6140-471d-b764-9d3ba0ab8186/?back=/browse "Curso de SPA com Angular da Camila Ferreira") **(Angular)** Curso Trabalhando com Páginas SPA com Angular através da imersão nos principais conceitos e boas práticas do Angular.
+
 - [Dani Academy](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
 
 - [Ellen Körbes](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") **(Go)** Curso para aprender a programar com GO.
 
 - [Giuliana Silva Bezerra](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/) **(Java, Spring)** Curso para desenvolvimento de jobs com Spring Batch.
+
+- [Instituto Rede Mulher Empreendedora](https://potenciafeminina.myedools.com/ "Site do Instituto Rede Mulher Empreendedora") **(Programação, carreira)** Capacitação online objetivando ajudar as mulheres brasileiras a serem donas da própria vida e do próprio destino.
 
 - [Juliana Servidoni](https://www.udemy.com/course/curso-de-jornalismo-de-dados-introducao/ "Curso de jornalismo de dados") **(Ciência de dados)** Curso de jornalismo de dados com Python.
 
@@ -67,7 +71,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Michelli Brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow "Michelli Brito") **(Java, Angular)** Cursos de Java com Sprint Boot, deploys de aplicações no AWS, Azure e curso de Angular.
 
 - [Mônica Mesquita](https://www.udemy.com/course/interfacenapratica/ "Mônica Mesquita") **(UI Design)** Design de interfaces com o Adobe XD.
-
+ 
 - [Sandyara Peres](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
 
 ## Youtubers :video_camera:
@@ -90,6 +94,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Carla Vieira](https://www.youtube.com/eaicarla "Canal do Youtube E AI, Carla?") **(IA)** Conteúdo sobre ciência, Inteligência Artificial, tecnologia e seus impactos na sociedade.
 
+- [Code with Ania Kubów :us:](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw "Canal do Youtube Code with Ania Kubów") **(Programação)** Vídeos sobre programação em JavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL, entre outras.
+
 - [Coding Blonde :us:](https://www.youtube.com/c/CodingBlonde/featured "Canal do Youtube de Masha") **(Tecnologia)** Canal no youtube com conteúdo sobre HTML, Blockchain, Python e outras curiosidades bre tecnologia.
 
 - [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") **(Python)** Canal sobre contéudos básicos de Python e algoritmo.
@@ -105,6 +111,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Glaucia Lemos](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") **(Programação)** Vídeos de programação com Node, Typescript, C#, AngularJS e Vue.
 
 - [Guria de T.I](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
+
+- [Herika Strongreen](https://www.youtube.com/channel/UCKlX8cbIJxwFEgyQLbs_chw "Canal do Youtube da Herika Strongreen") **(Cultura maker, hacking)** Canal que aborda a tecnologia de uma forma divertida e leve, ensinando as bases de hardware, software e hacking.
 
 - [Kizzy Terra](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR "Canal do Youtube Programação Dinamica") **(Ciência de Dados)** Canal sobre análise de dados e data science.
 
@@ -177,6 +185,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Compiladoras Cast](https://anchor.fm/compiladoras "Podcast das Compiladoras de Cafeína") **(Tecnologia)** Discutimos sobre mulheres na tecnologia, carreiras e assuntos relacionados em podcasts divertidos e curtinhos.
 
 - [PodProgramar](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
+
+- [Somos Cintia](https://anchor.fm/grupo-cintia "Podcast Somos Cintia") **(Tecnologia, divulgação científica)** Podcast quinzenal de discussão e divulgação científica com foco em mulheres e tecnologia, com questões envolvendo equidade de gênero no campo da educação e do trabalho.
 
 ## Para contribuir
 
