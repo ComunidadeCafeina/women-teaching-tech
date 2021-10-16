@@ -178,6 +178,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [PodProgramar](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
+- [Agile Girls](https://open.spotify.com/show/51ZqIkkMabXMF93YUDQoLm "Podcast Agile Girls") **(Agile)** Podcast para entrevistas com mulheres agilistas engajadas em tornar a comunidade mais diversa.
+
 ## Para contribuir
 
 :point_right: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
