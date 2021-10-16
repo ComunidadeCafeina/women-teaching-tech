@@ -57,7 +57,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Dani Academy :brazil:](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
 
-- [Elas Programam :brazil:] (https://www.sympla.com.br/curso-introducao-front-end-saindo-do-zero-exclusivo-para-mulheres__1365786) **(Front-End)** Curso Introdução ao Front-End Saindo do Zero: Exclusivo para Mulheres. HTML, CSS e JavaScript.
+- [Elas Programam :brazil:](https://www.sympla.com.br/curso-introducao-front-end-saindo-do-zero-exclusivo-para-mulheres__1365786) **(Front-End)** Curso Introdução ao Front-End Saindo do Zero: Exclusivo para Mulheres. HTML, CSS e JavaScript.
 
 - [Ellen Körbes :brazil:](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") **(Go)** Curso para aprender a programar com GO.
 
