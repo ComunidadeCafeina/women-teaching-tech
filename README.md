@@ -47,9 +47,11 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 ## Cursos (gratuitos e pagos) :sparkles:
 
-|:moneybag:|:moneybag: :free:|
+> Legenda: :moneybag: curso pago | :moneybag: :free: opções pagas e gratuitas
+
+<!-- |:moneybag:|:moneybag: :free:|
 -----------|-------
-|Pago|Opções pagas e gratuitas|
+|Pago|Opções pagas e gratuitas| -->
 
 - [Academia Hopper :brazil:](https://www.youtube.com/channel/UCh23-TkLtF8NCtk5hGP9aEg "Academia Hopper") **(Lógica de Programação)** Curso de lógica de programação, curso de Python, mulheres na carreira de tecnologia.
 
@@ -59,7 +61,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Cah Felix :brazil:](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") **(HTML/CSS)** Cursos de HTML e CSS para iniciantes.
 
-- [Dani Academy :brazil: :free: :moneybag:](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
+- [Dani Academy :brazil: :moneybag: :free:](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
 
 - [Elas Programam :brazil: :moneybag:](https://www.sympla.com.br/curso-introducao-front-end-saindo-do-zero-exclusivo-para-mulheres__1365786) **(Front-End)** Curso Introdução ao Front-End Saindo do Zero: Exclusivo para Mulheres. HTML, CSS e JavaScript.
 
