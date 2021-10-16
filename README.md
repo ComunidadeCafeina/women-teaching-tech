@@ -56,6 +56,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Dani Academy :brazil:](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
 
+- [Elas Programam :brazil:] (https://www.sympla.com.br/curso-introducao-front-end-saindo-do-zero-exclusivo-para-mulheres__1365786) **(Front-End)** Curso Introdução ao Front-End Saindo do Zero: Exclusivo para Mulheres. HTML, CSS e JavaScript.
+
 - [Ellen Körbes :brazil:](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") **(Go)** Curso para aprender a programar com GO.
 
 - [Giuliana Silva Bezerra :brazil:](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/) **(Java, Spring)** Curso para desenvolvimento de jobs com Spring Batch.
@@ -177,6 +179,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 ## Podcasters :studio_microphone:
 
 - [Compiladoras Cast :brazil:](https://anchor.fm/compiladoras "Podcast das Compiladoras de Cafeína") **(Tecnologia)** Discutimos sobre mulheres na tecnologia, carreiras e assuntos relacionados em podcasts divertidos e curtinhos.
+
+- [Elas Programam :brazil:](https://elasprogramam.com.br/#/podcast "Site elas Programam com os canais") **(Tecnologia)** Elas Programam é o primeiro podcast em português que conta a jornada de mulheres anônimas na tecnologia.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
