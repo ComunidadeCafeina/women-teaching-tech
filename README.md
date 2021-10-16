@@ -133,6 +133,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Punk do DevOps :brazil:](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") **(DevOps)** Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral.
 
+- [Rafaella Ballerini :brazil:](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q "Canal do Youtube Rafaella Ballerini")  **(Programação)** Canal com lives e vídeos que engloba diversas áreas da tecnologia, principalmente sobre programação.
+
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
 - [Tina Huang :us:](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww "Canal do YouTube de Tina Huang") **(Carreira)** Canal sobre carreira, estudos e Data Science.
