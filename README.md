@@ -124,6 +124,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
+- [Tina Huang :us:](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww "Canal do YouTube de Tina Huang") **(Carreira)** Canal sobre carreira, estudos e Data Science.
+
 - [Trans de Programa :brazil:](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") **(Firebase, Diversidade)** Canal sobre Firebase e diversidade.
 
 - [Vida Programação :brazil:](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") **(Mobile)** Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas.
