@@ -49,10 +49,6 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 > Legenda: :moneybag: curso pago | :moneybag: :free: opções pagas e gratuitas
 
-<!-- |:moneybag:|:moneybag: :free:|
------------|-------
-|Pago|Opções pagas e gratuitas| -->
-
 - [Academia Hopper :brazil:](https://www.youtube.com/channel/UCh23-TkLtF8NCtk5hGP9aEg "Academia Hopper") **(Lógica de Programação)** Curso de lógica de programação, curso de Python, mulheres na carreira de tecnologia.
 
 - [ Dr. Angela Yu :us: :moneybag:](https://www.udemy.com/course/the-complete-web-development-bootcamp/) **(Fullstack)** Cursos de desenvolvimento Frontend e Backend.
