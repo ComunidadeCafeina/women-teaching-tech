@@ -104,6 +104,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Fernanda Schleier :brazil:](https://www.youtube.com/channel/UCKVZCTazZOa7hdcVT3V1DVQ "Fernanda Schleier") **(Pensamento computacional)** Vídeos sobre Pensamento Computacional e explicação de termos da área de tecnologia.
 
+- [Freya Holmér :us:](https://www.youtube.com/c/Acegikmo/featured)  **(Games, Computação Gráfica)** Vídeos sobre desenvolvimento de jogos, computação gráfica e matemática voltada para jogos.
+
 - [Glaucia Lemos :brazil:](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") **(Programação)** Vídeos de programação com Node, Typescript, C#, AngularJS e Vue.
 
 - [Guria de T.I :brazil:](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
