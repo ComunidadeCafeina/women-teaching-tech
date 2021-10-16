@@ -6,6 +6,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 ## Canais de comunidades :star:
 
+- [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos)  **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
+
 - [Cloud Girls :brazil:](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
 - [Code First Girls :us:](https://www.youtube.com/channel/UCi9uPFzIg0eegj4ZFE3Co3w/videos "Canal do Youtube da Code First Girls") **(Tecnologia)** Comunidade que posta lives sobre tecnologia no geral.
