@@ -6,6 +6,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 ## Canais de comunidades :star:
 
+- [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos)  **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
+
 - [Cloud Girls :brazil:](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
 - [Code First Girls :us:](https://www.youtube.com/channel/UCi9uPFzIg0eegj4ZFE3Co3w/videos "Canal do Youtube da Code First Girls") **(Tecnologia)** Comunidade que posta lives sobre tecnologia no geral.
@@ -101,6 +103,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [De Front com Aline :brazil:](https://www.youtube.com/c/DeFrontcomAline "De Front com Aline") **(Carreira, Frontend)** Vídeos de experiências e dicas da Aline sobre a carreira de frontend.
 
 - [Fernanda Schleier :brazil:](https://www.youtube.com/channel/UCKVZCTazZOa7hdcVT3V1DVQ "Fernanda Schleier") **(Pensamento computacional)** Vídeos sobre Pensamento Computacional e explicação de termos da área de tecnologia.
+
+- [Freya Holmér :us:](https://www.youtube.com/c/Acegikmo/featured)  **(Games, Computação Gráfica)** Vídeos sobre desenvolvimento de jogos, computação gráfica e matemática voltada para jogos.
 
 - [Glaucia Lemos :brazil:](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") **(Programação)** Vídeos de programação com Node, Typescript, C#, AngularJS e Vue.
 
