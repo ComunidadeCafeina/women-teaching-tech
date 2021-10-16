@@ -134,6 +134,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Trans de Programa :brazil:](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") **(Firebase, Diversidade)** Canal sobre Firebase e diversidade.
 
+- [Vanny :brazil:](https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ "Canal Youtube") **(Tecnologia)** Canal com conteúdo sobre tecnologia, tutoriais e podcast.
+
 - [Vida Programação :brazil:](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") **(Mobile)** Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas.
 
 - [Wonder Wanny :brazil:](https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ "Canal do Youtube da Vannessa Barr") **(Banco de dados)** Canal sobre banco de dados.
