@@ -2,9 +2,12 @@
 
 > Uma lista de canais ou cursos sobre tecnologia feitos por mulheres.
 
+
 O objetivo dessa lista é promover o protagonismo feminino através da divulgação de cursos de programação lecionados por mulheres e conteúdos em **vídeo** sobre qualquer assunto relacionado a área de tecnologia.
 
 ## Canais de comunidades :star:
+
+- [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos)  **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
 
 - [Cloud Girls :brazil:](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
@@ -54,6 +57,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Dani Academy :brazil:](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
 
+- [Elas Programam :brazil:](https://www.sympla.com.br/curso-introducao-front-end-saindo-do-zero-exclusivo-para-mulheres__1365786) **(Front-End)** Curso Introdução ao Front-End Saindo do Zero: Exclusivo para Mulheres. HTML, CSS e JavaScript.
+
 - [Ellen Körbes :brazil:](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") **(Go)** Curso para aprender a programar com GO.
 
 - [Giuliana Silva Bezerra :brazil:](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/) **(Java, Spring)** Curso para desenvolvimento de jobs com Spring Batch.
@@ -69,6 +74,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Mônica Mesquita :brazil:](https://www.udemy.com/course/interfacenapratica/ "Mônica Mesquita") **(UI Design)** Design de interfaces com o Adobe XD.
 
 - [Sandyara Peres :brazil:](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
+
+- [Reprograma :brazil:](https://www.reprograma.com.br "Site oficial") ** (Programação, HTML, CSS, Javascript) ** O principal objetivo é reduzir o gap de gênero no setor de tecnologia por meio da educação.
 
 ## Youtubers :video_camera:
 
@@ -102,6 +109,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Fernanda Schleier :brazil:](https://www.youtube.com/channel/UCKVZCTazZOa7hdcVT3V1DVQ "Fernanda Schleier") **(Pensamento computacional)** Vídeos sobre Pensamento Computacional e explicação de termos da área de tecnologia.
 
+- [Freya Holmér :us:](https://www.youtube.com/c/Acegikmo/featured)  **(Games, Computação Gráfica)** Vídeos sobre desenvolvimento de jogos, computação gráfica e matemática voltada para jogos.
+
 - [Glaucia Lemos :brazil:](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") **(Programação)** Vídeos de programação com Node, Typescript, C#, AngularJS e Vue.
 
 - [Guria de T.I :brazil:](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
@@ -124,7 +133,11 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
+- [Tina Huang :us:](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww "Canal do YouTube de Tina Huang") **(Carreira)** Canal sobre carreira, estudos e Data Science.
+
 - [Trans de Programa :brazil:](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") **(Firebase, Diversidade)** Canal sobre Firebase e diversidade.
+
+- [Vanny :brazil:](https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ "Canal Youtube") **(Tecnologia)** Canal com conteúdo sobre tecnologia, tutoriais e podcast.
 
 - [Vida Programação :brazil:](https://www.youtube.com/user/vidaprogramacao/ "Canal Youtube") **(Mobile)** Canal no Youtube com conteúdo sobre tecnologia, tutoriais e dicas.
 
@@ -173,6 +186,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 ## Podcasters :studio_microphone:
 
 - [Compiladoras Cast :brazil:](https://anchor.fm/compiladoras "Podcast das Compiladoras de Cafeína") **(Tecnologia)** Discutimos sobre mulheres na tecnologia, carreiras e assuntos relacionados em podcasts divertidos e curtinhos.
+
+- [Elas Programam :brazil:](https://elasprogramam.com.br/#/podcast "Site elas Programam com os canais") **(Tecnologia)** Elas Programam é o primeiro podcast em português que conta a jornada de mulheres anônimas na tecnologia.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
