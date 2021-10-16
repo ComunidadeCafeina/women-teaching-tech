@@ -1,5 +1,7 @@
 # Mulheres que ensinam tecnologia :mega:
 
+========= MODIFICAÇÃO AQUI ========
+
 > Uma lista de canais ou cursos sobre tecnologia feitos por mulheres.
 
 O objetivo dessa lista é promover o protagonismo feminino através da divulgação de cursos de programação lecionados por mulheres e conteúdos em **vídeo** sobre qualquer assunto relacionado a área de tecnologia.
