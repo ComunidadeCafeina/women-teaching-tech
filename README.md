@@ -47,37 +47,37 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 ## Cursos (gratuitos e pagos) :sparkles:
 
-> Legenda: :moneybag: curso pago | :moneybag: :free: opções pagas e gratuitas
+> Legenda: :moneybag: curso pago | :free: curso gratuito | :moneybag: :free: opções pagas e gratuitas
 
-- [Academia Hopper :brazil:](https://www.youtube.com/channel/UCh23-TkLtF8NCtk5hGP9aEg "Academia Hopper") **(Lógica de Programação)** Curso de lógica de programação, curso de Python, mulheres na carreira de tecnologia.
+- [Academia Hopper :brazil: :free:](https://www.youtube.com/channel/UCh23-TkLtF8NCtk5hGP9aEg "Academia Hopper") **(Lógica de Programação)** Curso de lógica de programação, curso de Python, mulheres na carreira de tecnologia.
 
 - [ Dr. Angela Yu :us: :moneybag:](https://www.udemy.com/course/the-complete-web-development-bootcamp/) **(Fullstack)** Cursos de desenvolvimento Frontend e Backend.
 
-- [Ana no Terminal :brazil:](https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg "Canal do Youtube da Ana no Terminal") **(Python)** Curso de introdução a programação com Python.
+- [Ana no Terminal :brazil: :free:](https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg "Canal do Youtube da Ana no Terminal") **(Python)** Curso de introdução a programação com Python.
 
-- [Cah Felix :brazil:](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") **(HTML/CSS)** Cursos de HTML e CSS para iniciantes.
+- [Cah Felix :brazil: :free:](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") **(HTML/CSS)** Cursos de HTML e CSS para iniciantes.
 
 - [Dani Academy :brazil: :moneybag: :free:](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
 
 - [Elas Programam :brazil: :moneybag:](https://www.sympla.com.br/curso-introducao-front-end-saindo-do-zero-exclusivo-para-mulheres__1365786) **(Front-End)** Curso Introdução ao Front-End Saindo do Zero: Exclusivo para Mulheres. HTML, CSS e JavaScript.
 
-- [Ellen Körbes :brazil:](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") **(Go)** Curso para aprender a programar com GO.
+- [Ellen Körbes :brazil: :free:](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ "Canal do Youtube da Ellen Körbesn") **(Go)** Curso para aprender a programar com GO.
 
 - [Giuliana Silva Bezerra :brazil: :moneybag:](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/) **(Java, Spring)** Curso para desenvolvimento de jobs com Spring Batch.
 
 - [Juliana Servidoni :brazil: :moneybag:](https://www.udemy.com/course/curso-de-jornalismo-de-dados-introducao/ "Curso de jornalismo de dados") **(Ciência de dados)** Curso de jornalismo de dados com Python.
 
-- [Labenu :brazil:](https://youtu.be/lymtuqJdf8U/ "Canal Labenu") **(Lógica de programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
+- [Labenu :brazil: :free:](https://youtu.be/lymtuqJdf8U/ "Canal Labenu") **(Lógica de programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
 
-- [Loiane Groner :brazil:](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
+- [Loiane Groner :brazil: :free:](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
 
-- [Michelli Brito :brazil:](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow "Michelli Brito") **(Java, Angular)** Cursos de Java com Sprint Boot, deploys de aplicações no AWS, Azure e curso de Angular.
+- [Michelli Brito :brazil: :free:](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow "Michelli Brito") **(Java, Angular)** Cursos de Java com Sprint Boot, deploys de aplicações no AWS, Azure e curso de Angular.
 
 - [Mônica Mesquita :brazil: :moneybag:](https://www.udemy.com/course/interfacenapratica/ "Mônica Mesquita") **(UI Design)** Design de interfaces com o Adobe XD.
 
-- [Sandyara Peres :brazil:](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
+- [Sandyara Peres :brazil: :free:](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
 
-- [Reprograma :brazil:](https://www.reprograma.com.br "Site oficial") **(Programação, HTML/CSS, Javascript)** O principal objetivo é reduzir o gap de gênero no setor de tecnologia por meio da educação.
+- [Reprograma :brazil: :free:](https://www.reprograma.com.br "Site oficial") **(Programação, HTML/CSS, Javascript)** O principal objetivo é reduzir o gap de gênero no setor de tecnologia por meio da educação.
 
 ## Youtubers :video_camera:
 
