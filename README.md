@@ -48,6 +48,7 @@ A ideia da lista é divulgar o conteúdo dessas mulheres e trazer mais represent
 | [Carla Vieira](https://www.youtube.com/eaicarla "Canal do Youtube E AI, Carla?") | IA | Conteúdo sobre ciência, Inteligência Artificial, tecnologia e seus impactos na sociedade. |
 | [PACHIcodes](https://www.twitch.tv/pachicodes "Perfil do Twitch da PACHI") | HTML e CSS | Live Coding de HTML e CSS. |
 | [Camila Achutti](https://www.youtube.com/user/cachutti/featured "Canal do Youtube Mulheres na computação") |Conteúdo sobre tecnologia, ela dá palestras, tem bate papo e entrevistas.|
+|[MariaLab](https://www.marialab.org "Site da comunidade MariaLab")| Debates sobre tecnologias feministas, enfrentamento da violência online baseada em gênero e raça e sobre Governança da Internet.| 
 
 ## Para contribuir
 
