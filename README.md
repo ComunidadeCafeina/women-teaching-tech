@@ -189,13 +189,15 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 ## Podcasters :studio_microphone:
 
+- [Agile Girls :brazil:](https://open.spotify.com/show/51ZqIkkMabXMF93YUDQoLm "Podcast Agile Girls") **(Agile)** Podcast para entrevistas com mulheres agilistas engajadas em tornar a comunidade mais diversa.
+
 - [Compiladoras Cast :brazil:](https://anchor.fm/compiladoras "Podcast das Compiladoras de Cafeína") **(Tecnologia)** Discutimos sobre mulheres na tecnologia, carreiras e assuntos relacionados em podcasts divertidos e curtinhos.
 
 - [Elas Programam :brazil:](https://elasprogramam.com.br/#/podcast "Site elas Programam com os canais") **(Tecnologia)** Elas Programam é o primeiro podcast em português que conta a jornada de mulheres anônimas na tecnologia.
 
-- [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
+- [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
-- [Agile Girls :brazil:](https://open.spotify.com/show/51ZqIkkMabXMF93YUDQoLm "Podcast Agile Girls") **(Agile)** Podcast para entrevistas com mulheres agilistas engajadas em tornar a comunidade mais diversa.
+- [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
 ## Para contribuir
 
