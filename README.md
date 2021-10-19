@@ -117,6 +117,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Guria de T.I :brazil:](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
 
+- [Kamila code :brazil:](https://www.youtube.com/c/Kamilacode/featured) **(Tecnologia, Java, Carreira Backend)** Canal com tutoriais sobre Java e dicas para carreira de backend.
+
 - [Kizzy Terra :brazil:](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR "Canal do Youtube Programação Dinamica") **(Ciência de Dados)** Canal sobre análise de dados e data science.
 
 - [Laboratório da Julia :brazil:](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos "Canal no YouTube de Julia") **(Tecnologia)** Canal com contéudos relacionados a tecnologia, software, hardware e outros aspectos da engenharia da computação.
