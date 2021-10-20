@@ -201,6 +201,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
+- [Mulheres de produto :brazil:](https://medium.com/mulheres-de-produto/podcast/home "Podcast Mulheres de produto")  **(Tecnologia)** Um podcast feito por e para pessoas que se identificam como mulheres do mundo da tecnologia e produtos digitais.
+
 ## Para contribuir
 
 :point_right: Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md "CONTRIBUTING.md") para saber como contribuir.
