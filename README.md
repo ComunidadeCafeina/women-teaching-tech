@@ -78,6 +78,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Sandyara Peres :brazil: :free:](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
 
 - [Reprograma :brazil: :free:](https://www.reprograma.com.br "Site oficial") **(Programação, HTML/CSS, Javascript)** O principal objetivo é reduzir o gap de gênero no setor de tecnologia por meio da educação.
+- 
+-[Microsoft Developer)](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)  **(dicas sobre programção em geral)** aprendeizagem sobre programação em diversas linguagens.
 
 ## Youtubers :video_camera:
 
