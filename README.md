@@ -65,6 +65,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Giuliana Silva Bezerra :brazil: :moneybag:](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/) **(Java, Spring)** Curso para desenvolvimento de jobs com Spring Batch.
 
+- [Júlia Rizza :brazil:](https://www.youtube.com/channel/UCiHEeTXhVQDnw4m8OVl36yA "Canal do Youtube da Júlia Rizza") **(Flask)** Curso de Flask
+
 - [Juliana Servidoni :brazil: :moneybag:](https://www.udemy.com/course/curso-de-jornalismo-de-dados-introducao/ "Curso de jornalismo de dados") **(Ciência de dados)** Curso de jornalismo de dados com Python.
 
 - [Labenu :brazil: :free:](https://youtu.be/lymtuqJdf8U/ "Canal Labenu") **(Lógica de programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
