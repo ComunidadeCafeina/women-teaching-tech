@@ -45,6 +45,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [WoMakersCode :brazil:](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "Canal do Youtube da WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
 
+- [Women Who Code :us:](https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA "Canal do Youtube da Women Who Code") **(Tecnologia)** Comunidade com treinamentos, workshops, hackathons, conferências e muito mais para promover, inspirar e motivar mulheres na tecnologia.
+
 ## Cursos (gratuitos e pagos) :sparkles:
 
 > Legenda: :moneybag: curso pago | :free: curso gratuito | :moneybag: :free: opções pagas e gratuitas
@@ -139,6 +141,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
+- [Tiff in Tech :us:](https://www.youtube.com/c/TiffInTech/featured "Canal do Youtube da Tiff in Tech") **(Carreira, Tecnologia)** Canal com tutoriais e dicas sobre carreira e estudos em TI.
+
 - [Tina Huang :us:](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww "Canal do YouTube de Tina Huang") **(Carreira)** Canal sobre carreira, estudos e Data Science.
 
 - [Trans de Programa :brazil:](https://www.youtube.com/channel/UCpLKaiRNISlCdY99bjp5NFA/videos "Trans de Programa") **(Firebase, Diversidade)** Canal sobre Firebase e diversidade.
@@ -198,6 +202,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
+
+- [Somos Cintia :brazil:](https://open.spotify.com/show/6z9aEfGoOpHz6FrsOWZZtW "Podcast Somos Cintia") **(Tecnologia)** Podcast quinzenal de discussão e divulgação científica com foco em mulheres e tecnologia.
 
 ## Para contribuir
 
