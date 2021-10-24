@@ -195,6 +195,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Elas Programam :brazil:](https://elasprogramam.com.br/#/podcast "Site elas Programam com os canais") **(Tecnologia)** Elas Programam é o primeiro podcast em português que conta a jornada de mulheres anônimas na tecnologia.
 
+- [Mulheres de Produto :brazil:](https://mulheresdeproduto.com/podcast "Podcast Mulheres de Produto") **(Tecnologia)** Reúne histórias de mulheres que trabalham com produtos digitais no Brasil.
+
 - [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
