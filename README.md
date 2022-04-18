@@ -182,6 +182,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [larabeatrizms :brazil:](https://www.twitch.tv/larabeatrizms "Canal na Twitch da Lara Beatriz") **(Nodejs, React)** Live coding de Nodejs, ReactJS e React Native.
 
 - [lehmaria :brazil:](https://www.twitch.tv/lehmaria "Canal na Twitch da Leh Maria") **(Desenvolvimento Front-End)** Live coding de JavaScript, TypeScript e HTML & CSS.
+- 
+- [leitoraincomum :brazil:](https://www.twitch.tv/altthabs "Canal na Twitch da Fernanda Souza @leitoraincomum") **(Desenvolvimento)** Conteúdo básico sobre aprendizado em tecnologia e assuntos da graduação que curssa em Análise e Desenvolvimento de Sistemas.
 
 - [levxyca :brazil:](https://www.twitch.tv/levxyca "Canal na Twitch da Levxyca") **(C, C++)** Live coding de C e C++.
 
