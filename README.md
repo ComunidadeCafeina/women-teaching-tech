@@ -107,6 +107,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Carla Vieira :brazil:](https://www.youtube.com/eaicarla "Canal do Youtube E AI, Carla?") **(IA)** Conteúdo sobre ciência, Inteligência Artificial, tecnologia e seus impactos na sociedade.
 
+- [Code By Duda :brazil:](https://www.youtube.com/c/CodeByDuda "Canal do Youtube Code By Duda") **(Tecnologia, Carreira)** Conteúdo sobre a área de T.I, faculdade de Engenharia de Software e mercado de trabalho.
+
 - [Code with Ania Kubów :us:](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw "Canal do Youtube Code with Ania Kubów") **(Programação)** Vídeos sobre programação em JavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL, entre outras.
 
 - [Coding Blonde :us:](https://www.youtube.com/c/CodingBlonde/featured "Canal do Youtube de Masha") **(Tecnologia)** Canal no youtube com conteúdo sobre HTML, Blockchain, Python e outras curiosidades bre tecnologia.
