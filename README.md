@@ -57,6 +57,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Cah Felix :brazil: :free:](https://www.youtube.com/user/camillavirtual86 "Canal do Youtube da Cah Felix") **(HTML/CSS)** Cursos de HTML e CSS para iniciantes.
 
+- [Camila Ferreira :brazil: :free:](https://web.digitalinnovation.one/course/trabalhando-com-paginas-spa-com-angular/learning/f91b184b-6140-471d-b764-9d3ba0ab8186/?back=/browse "Curso de SPA com Angular da Camila Ferreira") **(Angular)** Curso Trabalhando com Páginas SPA com Angular através da imersão nos principais conceitos e boas práticas do Angular.
+
 - [Dani Academy :brazil: :moneybag: :free:](https://dani.academy/ "Dani Academy") **(Bancos de dados)** Cursos sobre MongoDB
 
 - [Elas Programam :brazil: :moneybag:](https://www.sympla.com.br/curso-introducao-front-end-saindo-do-zero-exclusivo-para-mulheres__1365786) **(Front-End)** Curso Introdução ao Front-End Saindo do Zero: Exclusivo para Mulheres. HTML, CSS e JavaScript.
@@ -65,7 +67,11 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Giuliana Silva Bezerra :brazil: :moneybag:](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/) **(Java, Spring)** Curso para desenvolvimento de jobs com Spring Batch.
 
+- [Instituto Rede Mulher Empreendedora :brazil: :free:](https://potenciafeminina.myedools.com/ "Site do Instituto Rede Mulher Empreendedora") **(Programação, carreira)** Capacitação online objetivando ajudar as mulheres brasileiras a serem donas da própria vida e do próprio destino.
+
 - [Juliana Servidoni :brazil: :moneybag:](https://www.udemy.com/course/curso-de-jornalismo-de-dados-introducao/ "Curso de jornalismo de dados") **(Ciência de dados)** Curso de jornalismo de dados com Python.
+
+- [Karina Tronkos :brazil: :moneybag:](https://cursos.faber-castell.com.br/cursos/nivel/basico/descobrindo-o-ux-design-detail "Descobrindo o UX Design") **(UX)** Curso para entender a importância do UX.
 
 - [Labenu :brazil: :free:](https://youtu.be/lymtuqJdf8U/ "Canal Labenu") **(Lógica de programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
 
@@ -74,6 +80,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Michelli Brito :brazil: :free:](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow "Michelli Brito") **(Java, Angular)** Cursos de Java com Sprint Boot, deploys de aplicações no AWS, Azure e curso de Angular.
 
 - [Mônica Mesquita :brazil: :moneybag:](https://www.udemy.com/course/interfacenapratica/ "Mônica Mesquita") **(UI Design)** Design de interfaces com o Adobe XD.
+
+- [Letícia Moreira :brazil: :moneybag:](https://leticiamoreira.com.br/ "Letícia Moreira") **(QA)** O que você ainda não aprendeu sobre QA — e que nenhuma facudlade ensina. Não precisa de conhecimento prévio.
 
 - [Sandyara Peres :brazil: :free:](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
 
@@ -101,6 +109,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Code By Duda :brazil:](https://www.youtube.com/c/CodeByDuda "Canal do Youtube Code By Duda") **(Tecnologia, Carreira)** Conteúdo sobre a área de T.I, faculdade de Engenharia de Software e mercado de trabalho.
 
+- [Code with Ania Kubów :us:](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw "Canal do Youtube Code with Ania Kubów") **(Programação)** Vídeos sobre programação em JavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL, entre outras.
+
 - [Coding Blonde :us:](https://www.youtube.com/c/CodingBlonde/featured "Canal do Youtube de Masha") **(Tecnologia)** Canal no youtube com conteúdo sobre HTML, Blockchain, Python e outras curiosidades bre tecnologia.
 
 - [Coding Is for Girls :us:](https://www.youtube.com/watch?v=APzo-zTg47o "Canal YouTube") **(Python)** Canal sobre contéudos básicos de Python e algoritmo.
@@ -118,6 +128,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Glaucia Lemos :brazil:](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") **(Programação)** Vídeos de programação com Node, Typescript, C#, AngularJS e Vue.
 
 - [Guria de T.I :brazil:](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
+
+- [Herika Strongreen :brazil:](https://www.youtube.com/channel/UCKlX8cbIJxwFEgyQLbs_chw "Canal do Youtube da Herika Strongreen") **(Cultura maker, hacking)** Canal que aborda a tecnologia de uma forma divertida e leve, ensinando as bases de hardware, software e hacking.
 
 - [Kamila code :brazil:](https://www.youtube.com/c/Kamilacode/featured) **(Tecnologia, Java, Carreira Backend)** Canal com tutoriais sobre Java e dicas para carreira de backend.
 
@@ -174,6 +186,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [larabeatrizms :brazil:](https://www.twitch.tv/larabeatrizms "Canal na Twitch da Lara Beatriz") **(Nodejs, React)** Live coding de Nodejs, ReactJS e React Native.
 
 - [lehmaria :brazil:](https://www.twitch.tv/lehmaria "Canal na Twitch da Leh Maria") **(Desenvolvimento Front-End)** Live coding de JavaScript, TypeScript e HTML & CSS.
+- 
+- [leitoraincomum :brazil:](https://www.twitch.tv/altthabs "Canal na Twitch da Fernanda Souza @leitoraincomum") **(Desenvolvimento)** Conteúdo básico sobre aprendizado em tecnologia e assuntos da graduação que curssa em Análise e Desenvolvimento de Sistemas.
 
 - [levxyca :brazil:](https://www.twitch.tv/levxyca "Canal na Twitch da Levxyca") **(C, C++)** Live coding de C e C++.
 
@@ -197,9 +211,13 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Elas Programam :brazil:](https://elasprogramam.com.br/#/podcast "Site elas Programam com os canais") **(Tecnologia)** Elas Programam é o primeiro podcast em português que conta a jornada de mulheres anônimas na tecnologia.
 
+- [Lelemaine Podcast :brazil:](https://open.spotify.com/show/6GJAzPaFfzAfCSYQRXR1O9?si=25af28313bb648eb)  **(Tecnologia)** Podcast onde a QA Lelemaine leva convidados de diversas áreas de tecnologia para contar um pouco sobre suas tragetórias.
+
 - [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
+
+- [Somos Cintia](https://anchor.fm/grupo-cintia "Podcast Somos Cintia") **(Tecnologia, divulgação científica)** Podcast quinzenal de discussão e divulgação científica com foco em mulheres e tecnologia, com questões envolvendo equidade de gênero no campo da educação e do trabalho.
 
 ## Para contribuir
 
