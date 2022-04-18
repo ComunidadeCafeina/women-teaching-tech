@@ -71,6 +71,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Juliana Servidoni :brazil: :moneybag:](https://www.udemy.com/course/curso-de-jornalismo-de-dados-introducao/ "Curso de jornalismo de dados") **(Ciência de dados)** Curso de jornalismo de dados com Python.
 
+- [Karina Tronkos :brazil: :moneybag:](https://cursos.faber-castell.com.br/cursos/nivel/basico/descobrindo-o-ux-design-detail "Descobrindo o UX Design") **(UX)** Curso para entender a importância do UX.
+
 - [Labenu :brazil: :free:](https://youtu.be/lymtuqJdf8U/ "Canal Labenu") **(Lógica de programação)** Curso de Lógica de Programação para iniciantes ensinado pela Paulinha da Labenu.
 
 - [Loiane Groner :brazil: :free:](https://loiane.training/ "Loiane Groner") **(Angular, Java)** Cursos de Angular, Java Básico, Java Intermediário, Estrutura de Dados com Java, Phonegap e Apache Cordova e Fundamentos Ext JS 4.
