@@ -79,6 +79,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Mônica Mesquita :brazil: :moneybag:](https://www.udemy.com/course/interfacenapratica/ "Mônica Mesquita") **(UI Design)** Design de interfaces com o Adobe XD.
 
+- [Letícia Moreira :brazil: :moneybag:](https://leticiamoreira.com.br/ "Letícia Moreira") **(QA)** O que você ainda não aprendeu sobre QA — e que nenhuma facudlade ensina. Não precisa de conhecimento prévio.
+
 - [Sandyara Peres :brazil: :free:](https://sandyaraperes.com.br/android "Sandyara Peres") **(Android)** Curso de Android desde o básico até o mercado de trabalho. Não precisa ter conhecimento prévio.
 
 - [Reprograma :brazil: :free:](https://www.reprograma.com.br "Site oficial") **(Programação, HTML/CSS, Javascript)** O principal objetivo é reduzir o gap de gênero no setor de tecnologia por meio da educação.
@@ -202,6 +204,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Compiladoras Cast :brazil:](https://anchor.fm/compiladoras "Podcast das Compiladoras de Cafeína") **(Tecnologia)** Discutimos sobre mulheres na tecnologia, carreiras e assuntos relacionados em podcasts divertidos e curtinhos.
 
 - [Elas Programam :brazil:](https://elasprogramam.com.br/#/podcast "Site elas Programam com os canais") **(Tecnologia)** Elas Programam é o primeiro podcast em português que conta a jornada de mulheres anônimas na tecnologia.
+
+- [Lelemaine Podcast :brazil:](https://open.spotify.com/show/6GJAzPaFfzAfCSYQRXR1O9?si=25af28313bb648eb)  **(Tecnologia)** Podcast onde a QA Lelemaine leva convidados de diversas áreas de tecnologia para contar um pouco sobre suas tragetórias.
 
 - [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
