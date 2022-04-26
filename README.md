@@ -213,6 +213,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Lelemaine Podcast :brazil:](https://open.spotify.com/show/6GJAzPaFfzAfCSYQRXR1O9?si=25af28313bb648eb)  **(Tecnologia)** Podcast onde a QA Lelemaine leva convidados de diversas áreas de tecnologia para contar um pouco sobre suas tragetórias.
 
+- [Emílias - Mulheres na Computação :brazil:](https://open.spotify.com/show/1Pm95WtrS8ZqBqRCUprQDq "Emílias Podcast - Mulheres na Computação") **(Carreira)** Este podcast entrevista mulheres que atuam em áreas da Ciência da Computação, sendo parte do programa de extensão [Emílias - Armação em Bits](https://linktr.ee/Emilias) da UTFPR Curitiba.
+
 - [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
