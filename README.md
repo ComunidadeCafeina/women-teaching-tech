@@ -215,6 +215,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Emílias - Mulheres na Computação :brazil:](https://open.spotify.com/show/1Pm95WtrS8ZqBqRCUprQDq "Emílias Podcast - Mulheres na Computação") **(Carreira)** Este podcast entrevista mulheres que atuam em áreas da Ciência da Computação, sendo parte do programa de extensão [Emílias - Armação em Bits](https://linktr.ee/Emilias) da UTFPR Curitiba.
 
+- [Feminsitech Podcast](https://open.spotify.com/show/5C1LL8H7iFCmUCoEmGJkd5) **(Carreira)** "Nosso podcast discute assuntos ligados ao mundo da tecnologia, com pessoas que se identificam no feminino ou não bináries, criando um conteúdo mais diverso e inclusivo num mercado tão pouco representado." https://feministech.github.io/#projetos
+
 - [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
