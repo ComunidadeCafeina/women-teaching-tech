@@ -9,6 +9,10 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos)  **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
 
+- [Women Who Code Global :us:](https://www.womenwhocode.com/)  **(Tecnologia)** Comunidade global em mais de 100 países, que tem como objetivos inspirar as mulheres a se destacarem na carreira de tecnologia.
+
+- [Women Who Code Global 🇧🇷:](https://www.womenwhocode.com/recife)  **(Tecnologia)** Rede do WWcode global em Recife -PE
+
 - [Cloud Girls :brazil:](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
 - [Code First Girls :us:](https://www.youtube.com/channel/UCi9uPFzIg0eegj4ZFE3Co3w/videos "Canal do Youtube da Code First Girls") **(Tecnologia)** Comunidade que posta lives sobre tecnologia no geral.
