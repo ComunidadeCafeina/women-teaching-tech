@@ -53,7 +53,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [WoMakersCode :brazil:](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "Canal do Youtube da WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
 
-- [WiDS - Women in Data Science Global :us:](https://www.youtube.com/c/WomeninDataScience/videos "Canal do Youtube da Women in Data Science") **(Tecnologia)** Canal com lives, tutoriais e palestras relacionado a Ciência de Dados.
+- [WiDS - Women in Data Science Global :us:](https://www.youtube.com/c/WomeninDataScience/videos "Canal do Youtube da Women in Data Science") **(Ciência de Dados)** Canal com lives, tutoriais e palestras relacionado a Ciência de Dados.
 
 ## Cursos (gratuitos e pagos) :sparkles:
 
