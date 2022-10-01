@@ -41,6 +41,10 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [QA Ladies :brazil:](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos "Canal do Youtube QA Ladies") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
+- [RLadies Belo Horizonte :brazil:](https://www.youtube.com/c/RLadiesBeloHorizonte/videos "Canal do Youtube RLadies Belo Horizonte") **(R)** Canal com lives e palestras de seus eventos
+
+- [RLadies Goiânia :brazil:](https://www.youtube.com/channel/UCvt6lv8yMrBV8YgsAoQykHw/videos "Canal do Youtube RLadies Goiânia") **(R)** Canal com lives e palestras de seus eventos
+
 - [Sysadminas :brazil:](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured "Canal do Youtube Sysadminas") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 - [TheFemTech Community :brazil:](https://www.youtube.com/c/thefemtechcommunity "Canal do Youtube da TheFemTech Community") **(Tecnologia)** Canal com lives e palestras de seus eventos
