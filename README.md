@@ -41,6 +41,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [QA Ladies :brazil:](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos "Canal do Youtube QA Ladies") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
+- [STEM Para as Minas :brazil:](https://www.youtube.com/channel/UCS2IQaIKx2OxU-9SAy4FgVA "Canal do Youtube STEM Para as Minas") **(Tecnologia)** Canal que incentiva e fala sobre a participação feminina nas áreas de ciência e tecnologia.
+
 - [Sysadminas :brazil:](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured "Canal do Youtube Sysadminas") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 - [TheFemTech Community :brazil:](https://www.youtube.com/c/thefemtechcommunity "Canal do Youtube da TheFemTech Community") **(Tecnologia)** Canal com lives e palestras de seus eventos
