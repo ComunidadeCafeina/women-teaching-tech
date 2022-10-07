@@ -1,5 +1,4 @@
-# Mulheres que ensinam tecnologia :mega:
-
+# Mulheres que ensinam tecnologia :mega:Mudança 
 > Uma lista de canais ou cursos sobre tecnologia feitos por mulheres.
 
 
