@@ -219,13 +219,15 @@ grffrr
 
 - [Emílias - Mulheres na Computação :brazil:](https://open.spotify.com/show/1Pm95WtrS8ZqBqRCUprQDq "Emílias Podcast - Mulheres na Computação") **(Carreira)** Este podcast entrevista mulheres que atuam em áreas da Ciência da Computação, sendo parte do programa de extensão [Emílias - Armação em Bits](https://linktr.ee/Emilias) da UTFPR Curitiba.
 
-- [Feminsitech Podcast](https://open.spotify.com/show/5C1LL8H7iFCmUCoEmGJkd5) **(Carreira)** "Nosso podcast discute assuntos ligados ao mundo da tecnologia, com pessoas que se identificam no feminino ou não bináries, criando um conteúdo mais diverso e inclusivo num mercado tão pouco representado." https://feministech.github.io/#projetos
+- [Feminsitech Podcast :brazil:](https://open.spotify.com/show/5C1LL8H7iFCmUCoEmGJkd5) **(Carreira)** "Nosso podcast discute assuntos ligados ao mundo da tecnologia, com pessoas que se identificam no feminino ou não bináries, criando um conteúdo mais diverso e inclusivo num mercado tão pouco representado." https://feministech.github.io/#projetos
 
 - [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
 
-- [Somos Cintia](https://anchor.fm/grupo-cintia "Podcast Somos Cintia") **(Tecnologia, divulgação científica)** Podcast quinzenal de discussão e divulgação científica com foco em mulheres e tecnologia, com questões envolvendo equidade de gênero no campo da educação e do trabalho.
+- [Somos Cintia :brazil:](https://anchor.fm/grupo-cintia "Podcast Somos Cintia") **(Tecnologia, divulgação científica)** Podcast quinzenal de discussão e divulgação científica com foco em mulheres e tecnologia, com questões envolvendo equidade de gênero no campo da educação e do trabalho.
+
+- [Start Coding :brazil:](https://open.spotify.com/show/0dTUNs8tpqAC5d71m8SGU0) **(Tecnologia)** Start Coding é uma iniciativa online com o objetivo de inserir mulheres na tecnologia. O podcast apresenta temas da computação e a equidade de gênero na área.
 
 ## Para contribuir
 
