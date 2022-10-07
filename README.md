@@ -4,7 +4,7 @@
 
 
 O objetivo dessa lista é promover o protagonismo feminino através da divulgação de cursos de programação lecionados por mulheres e conteúdos em **vídeo** sobre qualquer assunto relacionado a área de tecnologia.
-
+grffrr
 ## Canais de comunidades :star:
 
 - [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos)  **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
