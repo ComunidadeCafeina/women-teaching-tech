@@ -93,6 +93,8 @@ grffrr
 
 ## Youtubers :video_camera:
 
+- [Adriana Saty :brazil:](https://www.youtube.com/c/AdrianaSaty) **(Programação)** Conteúdos básicos direcionados a iniciantes de programação como HTML e CSS.
+
 - [Ana Beatriz Neri :brazil:](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA "Canal do Youtube da Ana Beatriz Neri") **(Programação)** Curso de Spring Webflux, MongoDB e AWS.
 
 - [Annelise Gripp :brazil:](https://www.youtube.com/channel/UC5J9cT_aCh5I5QIC3QBKOiA "Annelise Gripp") **(Agile)** Vídeos sobre carreira de TI e Agile.
@@ -153,7 +155,13 @@ grffrr
 
 - [Punk do DevOps :brazil:](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") **(DevOps)** Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral.
 
+- [Python Simplified - Mariya :canada:](https://www.youtube.com/c/PythonSimplified) **(Python)** Mariya aborda em seu canal a linguagem de programação Python, uma das mais populares atualmente. Tópicos como AI, Macchine Learning, Data Science, POO e mais.
+
 - [Rafaella Ballerini :brazil:](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q "Canal do Youtube Rafaella Ballerini")  **(Programação)** Canal com lives e vídeos que engloba diversas áreas da tecnologia, principalmente sobre programação.
+
+- [shenetworks](https://www.youtube.com/c/shenetworks) **(Redes)** Conteúdos sobre network e segurança.
+
+- [Simplificando Redes - Juliana :canada:](https://www.youtube.com/c/SimplificandoRedes) **(Redes)** A ideia do canal é apresentar informações e temas de uma forma simplificada e de fácil compreensão. Temas abordados: Redes de Computadores, Segurança de RedesPacket, TracerpfSense, Servidores e Aplicações em Linux, Docker e VirtualBox.
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
