@@ -159,7 +159,7 @@ grffrr
 
 - [Rafaella Ballerini :brazil:](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q "Canal do Youtube Rafaella Ballerini")  **(Programação)** Canal com lives e vídeos que engloba diversas áreas da tecnologia, principalmente sobre programação.
 
-- [shenetworks](https://www.youtube.com/c/shenetworks) **(Redes)** Conteúdos sobre network e segurança.
+- [shenetworks :us:](https://www.youtube.com/c/shenetworks) **(Redes)** Conteúdos sobre network e segurança.
 
 - [Simplificando Redes - Juliana :brazil:](https://www.youtube.com/c/SimplificandoRedes) **(Redes)** A ideia do canal é apresentar informações e temas de uma forma simplificada e de fácil compreensão. Temas abordados: Redes de Computadores, Segurança de RedesPacket, TracerpfSense, Servidores e Aplicações em Linux, Docker e VirtualBox.
 
