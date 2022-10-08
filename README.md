@@ -155,7 +155,7 @@ grffrr
 
 - [Rafaella Ballerini :brazil:](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q "Canal do Youtube Rafaella Ballerini")  **(Programação)** Canal com lives e vídeos que engloba diversas áreas da tecnologia, principalmente sobre programação.
 
-- [Simara Conceição :brazil:](https://www.youtube.com/c/queroserdev "Canal do Youtube quero ser dev")  **(Transição de Carreira, JavaScript, Frontend)** Canal com sobre transição de carreira, Frontend e JavaScript para iniciantes.
+- [Simara Conceição :brazil:](https://www.youtube.com/c/queroserdev "Canal do Youtube quero ser dev")  **(Transição de Carreira, JavaScript, Frontend)** Canal com dicas sobre transição de carreira, Frontend e JavaScript para iniciantes.
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
