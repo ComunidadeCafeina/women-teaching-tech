@@ -2,16 +2,16 @@
 
 > Uma lista de canais ou cursos sobre tecnologia feitos por mulheres.
 
-
 O objetivo dessa lista é promover o protagonismo feminino através da divulgação de cursos de programação lecionados por mulheres e conteúdos em **vídeo** sobre qualquer assunto relacionado a área de tecnologia.
 grffrr
+
 ## Canais de comunidades :star:
 
-- [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos)  **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
+- [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos) **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
 
-- [Women Who Code Global :us:](https://www.womenwhocode.com/)  **(Tecnologia)** Comunidade global em mais de 100 países, que tem como objetivos inspirar as mulheres a se destacarem na carreira de tecnologia.
+- [Women Who Code Global :us:](https://www.womenwhocode.com/) **(Tecnologia)** Comunidade global em mais de 100 países, que tem como objetivos inspirar as mulheres a se destacarem na carreira de tecnologia.
 
-- [Women Who Code Global 🇧🇷:](https://www.womenwhocode.com/recife)  **(Tecnologia)** Rede do WWcode global em Recife -PE
+- [Women Who Code Global 🇧🇷:](https://www.womenwhocode.com/recife) **(Tecnologia)** Rede do WWcode global em Recife -PE
 
 - [Cloud Girls :brazil:](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
@@ -26,6 +26,8 @@ grffrr
 - [Female Tech Leaders :us:](https://www.youtube.com/channel/UCUDJXqBKInhpfRaSYzd73xg) **(Tecnologia)** Comunidade para promover, inspirar e motivar mulheres na tecnologia.
 
 - [Girls Support Girls :brazil:](https://www.youtube.com/channel/UC6y3snU-KmvWcyEQEsoL3mA "Canal no Youtube da comunidade Girls Support Girls") **(Python)** Canal no Youtube com conteúdo de Python.
+
+- [Manas Digitais :brazil:](https://www.youtube.com/c/ManasDigitais/featured "Canal do Youtube das Manas Digitais") **(Tecnologia)** Canal no YouTube com webinars da Manas Digitais, uma organização sem fins lucrativos que ensina programação em escolas públicas e promove mais mulheres em carreiras de TI na região Amazônica.
 
 - [Meninas Digitais SBC :brazil:](https://www.youtube.com/c/MeninasDigitaisSBC/featured "Canal do Youtube das Meninas Digitais SBC") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
@@ -127,7 +129,7 @@ grffrr
 
 - [Fernanda Schleier :brazil:](https://www.youtube.com/channel/UCKVZCTazZOa7hdcVT3V1DVQ "Fernanda Schleier") **(Pensamento computacional)** Vídeos sobre Pensamento Computacional e explicação de termos da área de tecnologia.
 
-- [Freya Holmér :us:](https://www.youtube.com/c/Acegikmo/featured)  **(Games, Computação Gráfica)** Vídeos sobre desenvolvimento de jogos, computação gráfica e matemática voltada para jogos.
+- [Freya Holmér :us:](https://www.youtube.com/c/Acegikmo/featured) **(Games, Computação Gráfica)** Vídeos sobre desenvolvimento de jogos, computação gráfica e matemática voltada para jogos.
 
 - [Glaucia Lemos :brazil:](https://www.youtube.com/user/l32759 "Canal do Youtube da Glaucia Lemos") **(Programação)** Vídeos de programação com Node, Typescript, C#, AngularJS e Vue.
 
@@ -153,7 +155,7 @@ grffrr
 
 - [Punk do DevOps :brazil:](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") **(DevOps)** Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral.
 
-- [Rafaella Ballerini :brazil:](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q "Canal do Youtube Rafaella Ballerini")  **(Programação)** Canal com lives e vídeos que engloba diversas áreas da tecnologia, principalmente sobre programação.
+- [Rafaella Ballerini :brazil:](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q "Canal do Youtube Rafaella Ballerini") **(Programação)** Canal com lives e vídeos que engloba diversas áreas da tecnologia, principalmente sobre programação.
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
@@ -215,7 +217,7 @@ grffrr
 
 - [Elas Programam :brazil:](https://elasprogramam.com.br/#/podcast "Site elas Programam com os canais") **(Tecnologia)** Elas Programam é o primeiro podcast em português que conta a jornada de mulheres anônimas na tecnologia.
 
-- [Lelemaine Podcast :brazil:](https://open.spotify.com/show/6GJAzPaFfzAfCSYQRXR1O9?si=25af28313bb648eb)  **(Tecnologia)** Podcast onde a QA Lelemaine leva convidados de diversas áreas de tecnologia para contar um pouco sobre suas tragetórias.
+- [Lelemaine Podcast :brazil:](https://open.spotify.com/show/6GJAzPaFfzAfCSYQRXR1O9?si=25af28313bb648eb) **(Tecnologia)** Podcast onde a QA Lelemaine leva convidados de diversas áreas de tecnologia para contar um pouco sobre suas tragetórias.
 
 - [Emílias - Mulheres na Computação :brazil:](https://open.spotify.com/show/1Pm95WtrS8ZqBqRCUprQDq "Emílias Podcast - Mulheres na Computação") **(Carreira)** Este podcast entrevista mulheres que atuam em áreas da Ciência da Computação, sendo parte do programa de extensão [Emílias - Armação em Bits](https://linktr.ee/Emilias) da UTFPR Curitiba.
 
