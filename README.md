@@ -161,7 +161,7 @@ grffrr
 
 - [shenetworks](https://www.youtube.com/c/shenetworks) **(Redes)** Conteúdos sobre network e segurança.
 
-- [Simplificando Redes - Juliana :canada:](https://www.youtube.com/c/SimplificandoRedes) **(Redes)** A ideia do canal é apresentar informações e temas de uma forma simplificada e de fácil compreensão. Temas abordados: Redes de Computadores, Segurança de RedesPacket, TracerpfSense, Servidores e Aplicações em Linux, Docker e VirtualBox.
+- [Simplificando Redes - Juliana :brazil:](https://www.youtube.com/c/SimplificandoRedes) **(Redes)** A ideia do canal é apresentar informações e temas de uma forma simplificada e de fácil compreensão. Temas abordados: Redes de Computadores, Segurança de RedesPacket, TracerpfSense, Servidores e Aplicações em Linux, Docker e VirtualBox.
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
