@@ -155,6 +155,8 @@ grffrr
 
 - [Rafaella Ballerini :brazil:](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q "Canal do Youtube Rafaella Ballerini")  **(Programação)** Canal com lives e vídeos que engloba diversas áreas da tecnologia, principalmente sobre programação.
 
+- [Simara Conceição :brazil:](https://www.youtube.com/c/queroserdev "Canal do Youtube quero ser dev")  **(Transição de Carreira, JavaScript, Frontend)** Canal com sobre transição de carreira, Frontend e JavaScript para iniciantes.
+
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
 - [Tina Huang :us:](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww "Canal do YouTube de Tina Huang") **(Carreira)** Canal sobre carreira, estudos e Data Science.
@@ -224,6 +226,8 @@ grffrr
 - [Pizza de Dados :brazil:](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg?si=aU6aK3ifQkm04xHYgpOjsQ "Podcast Pizza de Dados") **(Ciência de Dados)** O primeiro podcast brasileiro sobre ciência de dados.
 
 - [PodProgramar :brazil:](https://www.youtube.com/c/PodProgramar "Canal do YouTube PodProgramar") **(Tecnologia)** Canal com conteúdo dos podcasts, abordando diversas tecnologias, linguagens, devops, carreira, eventos e entrevistas.
+
+- [quero ser dev :brazil:](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3?si=bcabe1e40d974846 "Podcast quero ser dev") **(Transição de carreira para tecnologia)** Podcast com conteúdo sobre transição de carreira para tecnologia, abordando diferentes áreas (front, back, mobile, dados e etc.)
 
 - [Somos Cintia :brazil:](https://anchor.fm/grupo-cintia "Podcast Somos Cintia") **(Tecnologia, divulgação científica)** Podcast quinzenal de discussão e divulgação científica com foco em mulheres e tecnologia, com questões envolvendo equidade de gênero no campo da educação e do trabalho.
 
