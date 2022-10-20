@@ -7,6 +7,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 grffrr
 ## Canais de comunidades :star:
 
+- [AI Girls :brazil:](https://www.youtube.com/c/AIGirlsComunidade/featured)  **(Inteligência Artificial, Ciência de dados)** Comunidade tech que visa o protagonismo feminino nas áreas de IA e Ciência de dados.
+
 - [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos)  **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
 
 - [Women Who Code Global :us:](https://www.womenwhocode.com/)  **(Tecnologia)** Comunidade global em mais de 100 países, que tem como objetivos inspirar as mulheres a se destacarem na carreira de tecnologia.
