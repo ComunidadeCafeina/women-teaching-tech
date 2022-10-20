@@ -41,6 +41,10 @@ grffrr
 
 - [QA Ladies :brazil:](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos "Canal do Youtube QA Ladies") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
+- [RLadies Belo Horizonte :brazil:](https://www.youtube.com/c/RLadiesBeloHorizonte/videos "Canal do Youtube RLadies Belo Horizonte") **(R)** Canal com lives e palestras de seus eventos
+
+- [RLadies Goiânia :brazil:](https://www.youtube.com/channel/UCvt6lv8yMrBV8YgsAoQykHw/videos "Canal do Youtube RLadies Goiânia") **(R)** Canal com lives e palestras de seus eventos
+
 - [Sysadminas :brazil:](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured "Canal do Youtube Sysadminas") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 - [TheFemTech Community :brazil:](https://www.youtube.com/c/thefemtechcommunity "Canal do Youtube da TheFemTech Community") **(Tecnologia)** Canal com lives e palestras de seus eventos
@@ -48,6 +52,8 @@ grffrr
 - [WiMLDS SP :brazil:](https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/ "Canal no Youtube da comunidade WiMLDS São Paulo") **(R)** Canal no Youtube com conteúdo sobre estatística e machine learning em R.
 
 - [WoMakersCode :brazil:](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "Canal do Youtube da WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
+
+- [WiDS - Women in Data Science Global :us:](https://www.youtube.com/c/WomeninDataScience/videos "Canal do Youtube da Women in Data Science") **(Ciência de Dados)** Canal com lives, tutoriais e palestras relacionado a Ciência de Dados.
 
 ## Cursos (gratuitos e pagos) :sparkles:
 
