@@ -3,15 +3,10 @@
 > Uma lista de canais ou cursos sobre tecnologia feitos por mulheres.
 
 O objetivo dessa lista é promover o protagonismo feminino através da divulgação de cursos de programação lecionados por mulheres e conteúdos em **vídeo** sobre qualquer assunto relacionado a área de tecnologia.
-grffrr
 
 ## Canais de comunidades :star:
 
-- [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos) **(Tecnologia)** Comunidade que reune informações e oportunidades relevantes do mundo da Tecnologia.
-
-- [Women Who Code Global :us:](https://www.womenwhocode.com/) **(Tecnologia)** Comunidade global em mais de 100 países, que tem como objetivos inspirar as mulheres a se destacarem na carreira de tecnologia.
-
-- [Women Who Code Global 🇧🇷:](https://www.womenwhocode.com/recife) **(Tecnologia)** Rede do WWcode global em Recife -PE
+- [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos) **(Tecnologia)** Comunidade que reúne informações e oportunidades relevantes do mundo da Tecnologia.
 
 - [Cloud Girls :brazil:](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
@@ -43,6 +38,10 @@ grffrr
 
 - [QA Ladies :brazil:](https://www.youtube.com/channel/UCM0Lqmlwd30901hO3PI6moA/videos "Canal do Youtube QA Ladies") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
+- [RLadies Belo Horizonte :brazil:](https://www.youtube.com/c/RLadiesBeloHorizonte/videos "Canal do Youtube RLadies Belo Horizonte") **(R)** Canal com lives e palestras de seus eventos
+
+- [RLadies Goiânia :brazil:](https://www.youtube.com/channel/UCvt6lv8yMrBV8YgsAoQykHw/videos "Canal do Youtube RLadies Goiânia") **(R)** Canal com lives e palestras de seus eventos
+
 - [Sysadminas :brazil:](https://www.youtube.com/channel/UC2ivXchCCuRbXBJidnp6ODw/featured "Canal do Youtube Sysadminas") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 - [TheFemTech Community :brazil:](https://www.youtube.com/c/thefemtechcommunity "Canal do Youtube da TheFemTech Community") **(Tecnologia)** Canal com lives e palestras de seus eventos
@@ -50,6 +49,12 @@ grffrr
 - [WiMLDS SP :brazil:](https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/ "Canal no Youtube da comunidade WiMLDS São Paulo") **(R)** Canal no Youtube com conteúdo sobre estatística e machine learning em R.
 
 - [WoMakersCode :brazil:](https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w "Canal do Youtube da WoMakersCode") **(Tecnologia)** Canal com lives, treinamentos e tutoriais de diversos assuntos da área de tecnologia.
+
+- [Women Who Code Global :us:](https://www.womenwhocode.com/) **(Tecnologia)** Comunidade global em mais de 100 países, que tem como objetivos inspirar as mulheres a se destacarem na carreira de tecnologia.
+
+- [Women Who Code Recife :brazil:](https://www.womenwhocode.com/recife) **(Tecnologia)** Comunidade de Recife-PE da rede global WWCode.
+
+- [WiDS - Women in Data Science Global :us:](https://www.youtube.com/c/WomeninDataScience/videos "Canal do Youtube da Women in Data Science") **(Ciência de Dados)** Canal com lives, tutoriais e palestras relacionado a Ciência de Dados.
 
 ## Cursos (gratuitos e pagos) :sparkles:
 
@@ -94,6 +99,8 @@ grffrr
 - [Reprograma :brazil: :free:](https://www.reprograma.com.br "Site oficial") **(Programação, HTML/CSS, Javascript)** O principal objetivo é reduzir o gap de gênero no setor de tecnologia por meio da educação.
 
 ## Youtubers :video_camera:
+
+- [Adriana Saty :brazil:](https://www.youtube.com/c/AdrianaSaty) **(Programação)** Conteúdos básicos direcionados a iniciantes de programação como HTML e CSS.
 
 - [Ana Beatriz Neri :brazil:](https://www.youtube.com/channel/UCBjoWT-P17Bl66D52RwqdGA "Canal do Youtube da Ana Beatriz Neri") **(Programação)** Curso de Spring Webflux, MongoDB e AWS.
 
@@ -155,7 +162,13 @@ grffrr
 
 - [Punk do DevOps :brazil:](https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA "Canal Punk do DevOps") **(DevOps)** Camilla Martins aborda semanalmente conteúdos referentes a TI, carreira, devops, programação ou aprendizados em geral.
 
+- [Python Simplified - Mariya :canada:](https://www.youtube.com/c/PythonSimplified) **(Python)** Mariya aborda em seu canal a linguagem de programação Python, uma das mais populares atualmente. Tópicos como AI, Macchine Learning, Data Science, POO e mais.
+
 - [Rafaella Ballerini :brazil:](https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q "Canal do Youtube Rafaella Ballerini") **(Programação)** Canal com lives e vídeos que engloba diversas áreas da tecnologia, principalmente sobre programação.
+
+- [shenetworks :us:](https://www.youtube.com/c/shenetworks) **(Redes)** Conteúdos sobre network e segurança.
+
+- [Simplificando Redes - Juliana :brazil:](https://www.youtube.com/c/SimplificandoRedes) **(Redes)** A ideia do canal é apresentar informações e temas de uma forma simplificada e de fácil compreensão. Temas abordados: Redes de Computadores, Segurança de RedesPacket, TracerpfSense, Servidores e Aplicações em Linux, Docker e VirtualBox.
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
