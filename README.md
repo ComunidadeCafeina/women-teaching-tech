@@ -142,6 +142,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Guria de T.I :brazil:](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
 
+- [Jakeliny Gracielly :brazil:](https://www.youtube.com/@jakeliny) **(Tecnologia)** Canal com conteúdos sobre tecnologia e programação web focada em JavaScript, TypeScript, NodeJS e React ♥
+
 - [Herika Strongreen :brazil:](https://www.youtube.com/channel/UCKlX8cbIJxwFEgyQLbs_chw "Canal do Youtube da Herika Strongreen") **(Cultura maker, hacking)** Canal que aborda a tecnologia de uma forma divertida e leve, ensinando as bases de hardware, software e hacking.
 
 - [Kamila code :brazil:](https://www.youtube.com/c/Kamilacode/featured) **(Tecnologia, Java, Carreira Backend)** Canal com tutoriais sobre Java e dicas para carreira de backend.
