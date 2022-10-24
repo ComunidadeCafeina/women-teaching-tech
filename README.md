@@ -24,6 +24,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Manas Digitais :brazil:](https://www.youtube.com/c/ManasDigitais/featured "Canal do Youtube das Manas Digitais") **(Tecnologia)** Canal no YouTube com webinars da Manas Digitais, uma organização sem fins lucrativos que ensina programação em escolas públicas e promove mais mulheres em carreiras de TI na região Amazônica.
 
+- [Meninas.comp :brazil:](https://youtube.com/c/Meninascomp "Canal do Youtube das Meninas.comp") **(Tecnologia)** Canal no YouTube que fomenta a inclusão de meninas de escolas públicas do Distrito Federal por meio de iniciativas que estimulam esse público em cursos ocupados majoritariamente por homens.
+
 - [Meninas Digitais SBC :brazil:](https://www.youtube.com/c/MeninasDigitaisSBC/featured "Canal do Youtube das Meninas Digitais SBC") **(Tecnologia)** Canal com lives e palestras de seus eventos
 
 - [PrograMaria :brazil:](https://www.youtube.com/c/PrograMaria/featured "Canal do Youtube da PrograMaria") **(Tecnologia)** A PrograMaria é uma startup social que empodera meninas e mulheres com habilidades em tecnologia e programação. Realiza eventos, oficinas, cursos de formação técnica e outras ações que ajudam empresas a promover diversidade e a atrarir e recrutar mais mulheres.
@@ -135,6 +137,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [De Front com Aline :brazil:](https://www.youtube.com/c/DeFrontcomAline "De Front com Aline") **(Carreira, Frontend)** Vídeos de experiências e dicas da Aline sobre a carreira de frontend.
 
 - [Fernanda Schleier :brazil:](https://www.youtube.com/channel/UCKVZCTazZOa7hdcVT3V1DVQ "Fernanda Schleier") **(Pensamento computacional)** Vídeos sobre Pensamento Computacional e explicação de termos da área de tecnologia.
+
+- [FLAI Inteligência Artificial :brazil:](https://youtube.com/c/CanalFlai "Canal no Youtube da Flai") **(Tecnologia)** Canal sobre Machine Learning, Data Science, Big Data, IoT, BI, Robótica e muito mais.
 
 - [Freya Holmér :us:](https://www.youtube.com/c/Acegikmo/featured) **(Games, Computação Gráfica)** Vídeos sobre desenvolvimento de jogos, computação gráfica e matemática voltada para jogos.
 
