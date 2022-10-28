@@ -8,6 +8,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Brazilians In Tech :brazil:](https://www.youtube.com/channel/UC_RWtlWhzRQUCD7js75scDA/videos) **(Tecnologia)** Comunidade que reúne informações e oportunidades relevantes do mundo da Tecnologia.
 
+- [BOSS - Big Open Source Sibling :brazil:](https://www.youtube.com/channel/UCQxKAvq-QLq57dqGYI_TuFw?view_as=subscriber "Canal BOSS - Big Open Source Sibling") **(Tecnologia)** Programa de mentoria que visa engajar grupos sub-representados na tecnologia para contribuir para Open Source, com conteúdos de chatbot, maratona de programção e software livre no youtube.
+
 - [Cloud Girls :brazil:](https://www.youtube.com/channel/UCXnSPiXhS2qsz1pVzWkBAVg "Canal do Youtube da Cloud Girls") **(Cloud)** Comunidade que posta lives sobre cloud.
 
 - [Code First Girls :us:](https://www.youtube.com/channel/UCi9uPFzIg0eegj4ZFE3Co3w/videos "Canal do Youtube da Code First Girls") **(Tecnologia)** Comunidade que posta lives sobre tecnologia no geral.
@@ -155,6 +157,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 - [Kizzy Terra :brazil:](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR "Canal do Youtube Programação Dinamica") **(Ciência de Dados)** Canal sobre análise de dados e data science.
 
 - [Laboratório da Julia :brazil:](https://www.youtube.com/c/Laborat%C3%B3riodaJulia/videos "Canal no YouTube de Julia") **(Tecnologia)** Canal com contéudos relacionados a tecnologia, software, hardware e outros aspectos da engenharia da computação.
+
+- [Laryssa Magalhães :brazil:](https://www.youtube.com/c/LaryssaMagalh%C3%A3es/videos "Canal do Youtube de Laryssa Magalhães") **(Tecnologia)** Canal com contéudos relacionados a tecnologia, carreira e frontend.
 
 - [lelemaine channel :brazil:](https://www.youtube.com/c/lelemainechannel "Canal do Youtube") **(Tecnologia)** Canal no Youtube para compartilhar experiências e conhecimentos na área da Tecnologia e centivar mulheres a ingressar nessa área.
 
