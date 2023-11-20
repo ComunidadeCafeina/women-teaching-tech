@@ -146,9 +146,11 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Guria de T.I :brazil:](https://www.youtube.com/channel/UCISLkieyNFB_fHMgdBNGW0g "Guria de T.I.") **(Tecnologia)** Canal sobre o mundo da programação.
 
-- [Jakeliny Gracielly :brazil:](https://www.youtube.com/@jakeliny) **(Tecnologia)** Canal com conteúdos sobre tecnologia e programação web focada em JavaScript, TypeScript, NodeJS e React ♥
+- [HelioxLab :fr:](https://www.youtube.com/@HelioxLab "Canal do Youtube da HelioxLab")**(Tecnologia)** Canal do HelioxLab sobre impressão 3D, eletrônica e bricolagem
 
 - [Herika Strongreen :brazil:](https://www.youtube.com/channel/UCKlX8cbIJxwFEgyQLbs_chw "Canal do Youtube da Herika Strongreen") **(Cultura maker, hacking)** Canal que aborda a tecnologia de uma forma divertida e leve, ensinando as bases de hardware, software e hacking.
+
+- [Jakeliny Gracielly :brazil:](https://www.youtube.com/@jakeliny) **(Tecnologia)** Canal com conteúdos sobre tecnologia e programação web focada em JavaScript, TypeScript, NodeJS e React ♥
 
 - [Kamila code :brazil:](https://www.youtube.com/c/Kamilacode/featured) **(Tecnologia, Java, Carreira Backend)** Canal com tutoriais sobre Java e dicas para carreira de backend.
 
@@ -176,7 +178,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Simplificando Redes - Juliana :brazil:](https://www.youtube.com/c/SimplificandoRedes) **(Redes)** A ideia do canal é apresentar informações e temas de uma forma simplificada e de fácil compreensão. Temas abordados: Redes de Computadores, Segurança de RedesPacket, TracerpfSense, Servidores e Aplicações em Linux, Docker e VirtualBox.
 
-- [Simara Conceição :brazil:](https://www.youtube.com/c/queroserdev "Canal do Youtube quero ser dev")  **(Transição de Carreira, JavaScript, Frontend)** Canal com dicas sobre transição de carreira, Frontend e JavaScript para iniciantes.
+- [Simara Conceição :brazil:](https://www.youtube.com/c/queroserdev "Canal do Youtube quero ser dev") **(Transição de Carreira, JavaScript, Frontend)** Canal com dicas sobre transição de carreira, Frontend e JavaScript para iniciantes.
 
 - [TechWorld with Nana :us:](https://www.youtube.com/c/TechWorldwithNana "Canal do YouTube") **(DevOps)** Canal sobre devops, infra as code, javascript.
 
