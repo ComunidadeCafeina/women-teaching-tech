@@ -136,6 +136,8 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [De Front com Aline :brazil:](https://www.youtube.com/c/DeFrontcomAline "De Front com Aline") **(Carreira, Frontend)** Vídeos de experiências e dicas da Aline sobre a carreira de frontend.
 
+- [Fernanda Kipper | Dev :brazil:](https://www.youtube.com/@kipperdev "Fernanda Kipper") **(Programação e carreira)** Vídeos sobre programação em varias linguagens, videos sobre conceitos de técnologias e videos sobre a carreira e vivência da Fernanda
+
 - [Fernanda Schleier :brazil:](https://www.youtube.com/channel/UCKVZCTazZOa7hdcVT3V1DVQ "Fernanda Schleier") **(Pensamento computacional)** Vídeos sobre Pensamento Computacional e explicação de termos da área de tecnologia.
 
 - [FLAI Inteligência Artificial :brazil:](https://youtube.com/c/CanalFlai "Canal no Youtube da Flai") **(Tecnologia)** Canal sobre Machine Learning, Data Science, Big Data, IoT, BI, Robótica e muito mais.
